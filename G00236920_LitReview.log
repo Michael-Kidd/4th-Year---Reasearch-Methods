@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.11)  12 DEC 2018 19:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.11)  12 DEC 2018 19:55
 entering extended mode
 **./G00236920_LitReview.tex
 (G00236920_LitReview.tex
@@ -262,73 +262,83 @@ Underfull \hbox (badness 10000) in paragraph at lines 72--73
  []
 
 [2]
-Underfull \hbox (badness 1354) in paragraph at lines 90--92
+Underfull \hbox (badness 2020) in paragraph at lines 75--76
+\OT1/ppl/m/n/9.53561 dis-or-ders (Ferrer-Garcia et al., 2013), pho-bias
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+
+Underfull \hbox (badness 1354) in paragraph at lines 94--96
 []\OT1/ppl/m/n/8.03 yer, E., Swart-z-lan-der, B.J., Gugli-ucci, M.R., 2018. Us-
 ing vir-
  []
 
 
-Underfull \hbox (badness 1874) in paragraph at lines 90--92
+Underfull \hbox (badness 1874) in paragraph at lines 94--96
 \OT1/ppl/m/n/8.03 tual re-al-ity in med-i-cal ed-u-ca-tion to teach em-pa-thy. 
 JOUR-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--98
+Underfull \hbox (badness 10000) in paragraph at lines 100--102
 []\OT1/ppl/m/n/8.03 in, C.J., Widyan-ingrum, R., 2018. The ef-fect of par-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--98
+Underfull \hbox (badness 10000) in paragraph at lines 100--102
 \OT1/ppl/m/n/8.03 al-lax on eye fix-a-tion pa-ram-e-ter in projection-based
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--98
+Underfull \hbox (badness 10000) in paragraph at lines 100--102
 \OT1/ppl/m/n/8.03 stereo-scopic dis-plays. Ap-plied Er-gonomics 69, 10{16.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--102
+Underfull \hbox (badness 10000) in paragraph at lines 104--106
 \OT1/ppl/m/n/8.03 M., 2013. Be-hav-ioral In-ter-ven-tion Tech-nolo-gies: Ev-i-d
 ence
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--102
+Underfull \hbox (badness 10000) in paragraph at lines 104--106
 \OT1/ppl/m/n/8.03 re-view and rec-om-men-da-tions for fu-ture re-search in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--102
+Underfull \hbox (badness 10000) in paragraph at lines 104--106
 \OT1/ppl/m/n/8.03 men-tal health. Gen-eral Hos-pi-tal Psy-chi-a-try 35, 332{338
 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--104
+Underfull \hbox (badness 10000) in paragraph at lines 106--108
 []\OT1/ppl/m/n/8.03 alivaiko, E., Davis, S.L., Black-more, K.L., Vakulin, A.,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--104
+Underfull \hbox (badness 10000) in paragraph at lines 106--108
 \OT1/ppl/m/n/8.03 Nes-bitt, K.V., 2015. Cy-ber-sick-ness pro-voked by head-
  []
 
 
-Underfull \hbox (badness 1472) in paragraph at lines 102--104
+Underfull \hbox (badness 1472) in paragraph at lines 106--108
 \OT1/ppl/m/n/8.03 mounted dis-play af-fects cu-ta-neous vas-cu-lar tone, heart 
 rate
  []
 
 
-Underfull \hbox (badness 3138) in paragraph at lines 102--104
+Underfull \hbox (badness 3138) in paragraph at lines 106--108
 \OT1/ppl/m/n/8.03 and re-ac-tion time. Phys-i-ol-ogy and Be-hav-ior 151, 583{59
 0.
  []
 
 
-Underfull \hbox (badness 4673) in paragraph at lines 104--106
+Underfull \hbox (badness 4673) in paragraph at lines 108--110
 \OT1/ppl/m/n/8.03 Ap-pli-ca-tion of vir-tual re-al-ity for crew men-tal health 
 in
  []
@@ -354,7 +364,7 @@ onts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/Michael/AppData/Local/Programs/MiK
 TeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/Michael/AppData/Local/Pro
 grams/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb><C:/Users/Michael/AppData
 /Local/Programs/MiKTeX 2.9/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on G00236920_LitReview.pdf (3 pages, 87715 bytes).
+Output written on G00236920_LitReview.pdf (3 pages, 87748 bytes).
 PDF statistics:
  37 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
