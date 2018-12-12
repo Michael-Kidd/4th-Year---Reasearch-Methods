@@ -1,0 +1,465 @@
+Skip to main content
+Brought to you by: GMIT Library
+Brought to you by: GMIT Library
+Close
+ScienceDirect
+Journals & Books
+My account
+Brought to you by: GMIT Library
+Brought to you by: GMIT Library
+Close
+
+My account
+Galway Mayo Institute of Technology, Shibboleth (401002)
+
+    Journals & Books
+
+Details & settings
+
+    Sign out
+    Help 
+
+ 
+Outline
+Download PDF Download
+Share
+Export
+Advanced
+Outline
+
+    Highlights
+    Abstract
+    Graphical abstract
+    Keywords
+    1. Introduction
+    2. Methods
+    3. Results
+    4. Discussion
+    5. Conclusion
+    Acknowledgements
+    References
+
+Show full outline
+Figures (8)
+
+    Unlabelled figure
+    Fig. 1. Illustration of the experiment layout presenting the relative distances of…
+    Fig. 2. Experiment Task
+    Fig. 3. Parallax settings
+    Fig. 4. Effect of parallax on fixation duration
+    Fig. 5. Effect of parallax on number of fixations
+
+Show all figures
+JavaScript is disabled on your browser. Please enable JavaScript to use all the features on this page.
+Elsevier
+Applied Ergonomics
+Volume 69 , May 2018 , Pages 10-16
+Applied Ergonomics
+The effect of parallax on eye fixation parameter in projection-based stereoscopic displays
+Author links open overlay panel Chiuhsiang Joe Lin Retno Widyaningrum
+Show more
+https://doi.org/10.1016/j.apergo.2017.12.020 Get rights and content
+Highlights
+
+•
+
+    Eye movement was analyzed in three different levels of object depth (parallax) in a projection-based stereoscopic display.
+•
+
+    Significant effects of parallax were found.
+•
+
+    Virtual objects at the screen results in better accuracy.
+•
+
+    The result contributes to designing effective interactive tasks where different targets appear in the stereoscopic display.
+
+Abstract
+
+The promising technology of stereoscopic displays is interesting to explore because 3D virtual applications are widely known. Thus, this study investigated the effect of parallax on eye fixation in stereoscopic displays. The experiment was conducted in three different levels of parallax, in which virtual balls were projected at the screen, at 20 cm and 50 cm in front the screen. The two important findings of this study are that parallax has significant effects on fixation duration, time to first fixation, number of fixations, and accuracy. The participant had more accurate fixations, fewer fixations, shorter fixation durations, and shorter times to first fixation when the virtual ball was projected at the screen than when it was projected at the other two levels of parallax.
+Graphical abstract
+
+While a person is looking at targets displayed in a virtual environment (a stereoscopic display), the eye movement is recorded and analysed, and the interaction performance using a clicking task is examined.
+Image 1
+
+    Download high-res image (134KB)
+    Download full-size image
+
+    Previous article in issue
+    Next article in issue
+
+Keywords
+Depth perception
+Eye fixation
+3D tasks
+1. Introduction
+
+Nowadays, virtual reality (VR) is becoming widely popular, and the promising technology of VR has been applied in training for laparoscopic surgery ( Hart and Karthigasu, 2007 ), virtual rehabilitation therapy ( Burdea, 2002 ), balance exercise programmes for traumatic brain injury ( Thornton et al., 2005 ), training for autistic spectrum disorder ( Parsons and Mitchell, 2002 ), training in the automotive industry ( Lawson et al., 2016 ), manufacturing process simulations ( Mujber et al., 2004 ), wheelchair driving simulator ( Alshaer et al., 2017 ) and education ( Bell and Fogler, 1995 ). A VR system provides interactive computer graphics that allow users to experience personal 3D viewing and interact with objects in a virtual environment (VE) ( Czernuszenko et al., 1997 , Sharples et al., 2008 ). The hardware devices required to achieve a 3D VE include a computer, a device display, and a handheld input device ( Lin et al., 2015a ). In the early 1990s, the head mounted display (HMD) was the leading device display screen that allowed users to experience an immersive presence in VEs ( Sharples et al., 2008 ). Moreover, users can have their own personal displays to interact and experience virtual targets because an HMD can effectively block out the real environment ( Mcneill et al., 2004 ). However, HMDs have some limitations and can be invasive to users. HMDs are worn on the head, and the weight is carried by the neck ( Czernuszenko et al., 1997 ). This weight can cause modification of neck posture and increase stress on the musculoskeletal system of the head and neck ( Mon-williams et al., 1995 ). Moreover, users who wear an HMD may experience symptoms of nausea, dizziness, vomiting, and visual problems ( Mon-williams et al., 1995 , Knight and Baber, 2007 ). To provide a wide field of view, HMDs require non-linear optic, which cause distortion ( Czernuszenko et al., 1997 ). Furthermore, HMDs allow users to perceive virtual objects in positive and zero parallax as most close to user's eyes ( Zhou et al., 2008 ).
+
+As another option, a projection-based system in VR has been developed in recent years. Projection-based VR uses wide, large, multi-touch, tracked hand-held display, and a fixed screen display in a relative distance from the user ( Benko et al., 2004 ). Such a projection system provides several advantages. First, it allows for multiple users to share and communicate with each other about the 3D environment by wearing 3D glasses ( Sharples et al., 2008 ). Second, a projection-based system can minimize the stress on the musculoskeletal system because users simply wear lightweight (3.3 oz) 3D glasses ( Czernuszenko et al., 1997 ). In that condition, users can comfortably view 3D images and interact with the virtual environment. Projection display also produces a satisfying interaction feeling of augmentation in augmented reality (AR) ( Zhou et al., 2008 ). AR systems incorporate real and virtual objects in a real time ( Azuma et al., 2001 ). In a projection system, a virtual object appears in negative parallax (in front of the projection plane) and positive parallax ( Petkov, 2012 ); therefore, a user can obtain satisfactory depth perception and interaction with virtual objects. However, such a system also has drawbacks; a projection system lacks mobility because the set up of projection stay in fixed position ( Zhou et al., 2008 ), and it cannot rotate the whole virtual world when the user rotates his or her head ( Lin et al., 2015a ).
+
+In this study, we used projection-based stereoscopic 3D displays. The stereoscopic 3D display is one technique for enhancing the illusion of depth in an image. The principle behind generating 3D images requires the control of parameters, especially parallax. Parallax is the horizontal display disparity of two images between the left and right eyes to create 3D images ( Smith et al., 2012 , Lang et al., 2010 ). The eyes’ axes of vision cross at the particular point where the virtual object is located, and the convergence of the eyes creates an illusion of depth ( Seigle, 2009 ). Human perception requires the left and right eye to see difference perspective images in the same scene ( Valkov et al., 2011 ). To perceive 3D image, with the left and right images providing information, the brain must be able to integrate the depths from the projection of two images into a single three-dimensional object ( Lebreton et al., 2012 ). Parallax and depth perception have important rules for creating 3D images in a virtual environment.
+
+However, the binocular depth perception relation in stereoscopic displays may cause visual problems, and parallax might be the underlying cause. The problems may be visual discomfort ( Lambooij et al., 2009 ), asthenopia or eye without strength ( Mackenzie, 1843 ), eyestrain ( Council, 1983 ), accommodation and vergence mismatch ( Emoto et al., 2005 , Hoffman et al., 2008 , Wann et al., 1995 , Okada et al., 2006 ). Moreover, parallax may also caused inaccuracy of distance judgment ( Lin et al., 2015b , Lin and Woldegiorgis, 2017 ). Therefore, it is worthwhile to investigate the effects of parallax in a virtual environment.
+
+Investigation of the effects of parallax requires discovery of the eye parameters in stereoscopic displays. Eye tracking technology is powerful device for investigating the effects of parallax and depth perception because eye movement data provide evidence of visual attention as fundamental system in visual perception ( Von Helmholz, 1897 ). Recording eye movement data can allow detection of the visual attention path of a participant, and then it can be derived that the human perceived the object ( Duchowski, 2007 ). Eye tracking technology captures what the user is looking at. Eye tracking detects and tracks the movement of the eyes and records the eye points and gaze points. In eye tracking analysis, an algorithm is used to classify data as eye fixation data or saccade ( Shic et al., 2008 ). The application of eye tracking technology allows our eyes to control a device as naturally as the movement of our eyes, so eye tracking technology has been used in many disciplines of research, such as measuring software screen complexity ( Goldberg, 2014 ), web page viewing behaviour ( Pan et al., 2004 ), eye pointing performance ( Lin and Widyaningrum, 2016 ), market research and advertising testing, eye control for accessibility, psychology and vision research, medical research, diagnostics and rehabilitation, and gaze interaction and car assistant systems ( Drewes, 2010 ). Hence, it is very helpful to visualize a participant's eye movement with eye tracking technology ( Deutsch and Deutsch, 1963 ).
+
+In eye tracker data, eye fixation data are the fundamental data used to evaluate eye performance and behaviour. Eye fixation is fascinating to explore because a cognitive process allows the viewer to see something interesting in the eye fixation process ( Blignaut, 2009 ). The oculomotor definition of eye fixation is that the eyes remain in the current position ( Holmqvist et al., 2011 ). A previous study examined the eye fixations of users in accomplishing a task and identified the number, position, and duration of fixations in screen displays. The study was conducted to measure eye fixation (number, number per line, rate, duration, and words per fixation) as a function of character and line spacing in a reading task ( Kolers et al., 1981 ). The result showed that more fixations per line and fewer fixations per word were associated with more tightly-grouped, singled-spaced material. Goldberg and Kotval (1999) presented an introduction and a framework of eye movement analysis techniques. That study recruited 12 subjects to experience good and poor software interfaces and measured the number of fixations, fixation duration, fixation/saccade ratio, and other measurements. The number of fixations is related to the number of components that the user is required to process to select the target. Participants made more fixations when they experienced bad interface design. Furthermore, fixation duration was required by the participants to interpret or relate the components represented in the interface. The duration of a single fixation on targets was dependent on the interface layout. Goldberg (2014) conducted a study to measure the complexity of software screens by relating eye tracking, emotional valence, and subjective ratings. In that study, participants were asked to complete 25 tasks on screen pages designed with various combinations of page category, gradient, font, and font size combination. The results showed that participants’ time to first fixation was longer when the larger fonts required searching a larger search area, and longer completion times caused a greater number of fixations. Therefore, longer fixation durations were associated with confusion or difficulty in processing tasks. Those studies showed that eye fixation was associated with efficiency in performance. Eye fixation is important to engineers designing effective displays to improve usability issue.
+
+However, as explained above, most of the literature about eye fixation has been conducted using 2D or screen displays. The analysis of eye fixation has not considered depth perception in accomplishing a task. Therefore, in this study, we investigated the effect of parallax on eye fixation parameter, especially number of fixations, time to first fixation, fixation duration, and accuracy in stereoscopic displays. We predicted that the fixation duration, number of fixations, time to first fixation, and accuracy would be affected by parallax due to the limitations of the eyes in a 3D visual environment.
+2. Methods
+
+The aim of this study was to investigate the effects of parallax on eye fixation in projection-based stereoscopic displays. Participants were asked to perform a pointing task in which a mouse with a 3D cursor and their eyes were used to point to a concentric circle of virtual balls. An eye tracker recorded the eye movements and eye fixations of the participants as they used hand movements to move the 3D cursor to point to the virtual ball. In this study, three different levels of parallax was used to examine the differences in depth perception of a 3D virtual ball projected level with the screen (at the screen), 20 cm in front of the screen, or 50 cm in front of the screen. The participants accomplished the trials in randomized order for each level of parallax.
+2.1. Participants
+
+Ten graduate students at National Taiwan University of Science and Technology participated in this study. Their mean age was 25 years with a standard deviation of four. All participants had normal or corrected to normal visual acuity (1.0 in decimal units). The participants were volunteers and were not given any compensation for performing the stereoscopic task. The study was approved by the ethical guidelines of the Research Ethics Committee of National Taiwan University. Participants completed consent forms before performing the task.
+2.2. Apparatus and tools
+
+The Tobii X2-60 eye tracking system, which has a 60 Hz sampling rate, was used to record the movements of participants’ eyes. An I-VT fixation filter was used to filter out the raw eye movement data with a 30°/second velocity threshold ( Salvucci and Goldberg, 2000 ). The fixation filter Tobii Studio version 3.3.2 software was used for calibration, testing, and data analysis. Eye movement data were exported for further data processing and statistical analysis. To perceive the stereoscopic 3D environment, the participant wore a pair of ViewSonic 3D glasses (PDF-250) integrated with a 3D vision IR Emitter from NVIDIA and a 3D ViewSonic (PJD6251) projector. The projection screen was 143 cm × 108 cm. The virtual ball was drawn using the Unity 3D platform (version 4.3.4) run on an Asus Windows Core i5 personal computer. A Logitech C-920 webcam integrated with Tobii studio was used to record the eye movement data from the screen display.
+
+An illustration of the experimental layout is presented in Fig. 1 . The participant was seated fronto-parallel to the screen. The distance between the participant and the screen was 181 cm. The projector was placed in front of the participant at a distance of 89 cm from the screen. The Tobii eye tracker was placed 64 cm in front of the participant, and the web camera was placed behind the participant at a distance of 200 cm from the screen. All of the devices were kept fixed and marked with adhesive tape to maintain consistency of the relative distances to the participant. The participant performed the task in a dark room (3.6 m × 3.2 m x 2.5 m) covered by black curtains to prevent the light and to create a good quality stereoscopic environment.
+Fig. 1
+
+    Download high-res image (202KB)
+    Download full-size image
+
+Fig. 1 . Illustration of the experiment layout presenting the relative distances of apparatus to the participant.
+2.3. Experiment procedures
+
+First, participants completed a participant consent form that described the purpose of the study, instructions on the experimental tasks, experiment procedure, and confidentiality of the data of the participant. After that, the participant sat on a chair and wore the 3D glasses. In the beginning of the experiment, the observer performed a calibration procedure and asked the participant to look at the red calibration dot as precisely as they could until the red calibration dot disappeared. The Tobii studio regular calibration process shows five calibration dots to check the accuracy and performance of the Tobii eye tracker. The experiment began when the quality of the calibration was excellent.
+
+In this study, participants were instructed to fixate their eyes on a virtual cube and click it using a virtual 3D mouse to start the task (see Fig. 2 ). After the virtual cube was clicked, a virtual red ball appeared. The participant was to identify the target and click the virtual target as fast and as accurately as possible. The virtual balls were arranged in concentric circles with three different levels of parallax. In each trial, the participant was to click the virtual ball while the Tobii eye tracker simultaneously recorded the participant's eye gaze movement and eye fixation point. The total time per participant, including completion of the consent form, instructions, the calibration process, the experiment, and breaks, was 60 min.
+Fig. 2
+
+    Download high-res image (141KB)
+    Download full-size image
+
+Fig. 2 . Experiment Task. (A) A 3D cube was placed in the centre as the initial eye fixation before the participant started the task. The observer asked the participant to start the task by clicking the virtual cube while the eye tracker captured the participant's eye gaze. (B) The red ball (top) would appear when the participant clicked the virtual cube. (C) The participant was required to click the red ball and the ball colour would change to white (top), after which the next red ball (bottom) would appear. (D) Each trial had12 balls and the participant required to click all the virtual balls. (For interpretation of the references to colour in this figure legend, the reader is referred to the Web version of this article.)
+2.4. Experimental design
+
+The independent variable in this study was parallax, which is the setting to define the position of the virtual ball relative to the position of the fixed screen and participant's eyes ( Lin and Widyaningrum, 2016 , Lin et al., 2015b ). In this study, we developed zero parallax (at the screen) and negative parallax (20 and 50 cm in front of the screen) and the binocular disparity range was chosen to minimize the effect of visual fatigue ( Lin and Widyaningrum, 2016 ). In order to provide 3D image perception but to minimize visual fatigue, we set the binocular disparity to be less than the inter-pupillary distance (IPD) value (6.5 cm), which determines the difference of the projected image locations or coordinates of an object seen by the left and the right eyes. Since the displayed area had a horizontal dimension of 108 cm, which is equivalent to the horizontal visual angle of 73.2°. The displayed ball size at each parallax was calculated and changed accordingly to remain at the same visual angle for different parallax conditions. Fig. 3 presents the parallax settings of the virtual target arrangement and binocular disparity for each different level of parallax.
+Fig. 3
+
+    Download high-res image (278KB)
+    Download full-size image
+
+Fig. 3 . Parallax settings. (A) Top view of the virtual ball arrangement in three different levels of parallax. The participant would see the virtual ball at the screen, 20 cm in front of the screen, and 50 cm in front of the screen. (B) Binocular disparity for each parallax level.
+
+The dependent variables were number of fixations, time to first fixation, fixation duration ( Goldberg, 2014 ), and accuracy. Number of fixations was the number of eye fixations starting from the time the hand clicked the virtual ball from origin to destination target. Time to first fixation was elapsed time from the beginning of the task until the first fixation on the virtual cube. Fixation duration was the average duration of fixations made by the participant to click the virtual ball from the origin to destination target. Accuracy was measured by the distance between the recorded fixation locations and the actual location of the projection of the image ( Ooms et al., 2015 ). Eye fixation position (EFp) was determined by eye gaze algorithm selection to fulfil the criteria of eye fixation parameters ( Lin and Widyaningrum, 2016 ). The candidates of eye fixation points were the fixation points with timestamps between two mouse clicks. Hand click time data were collected for matching with the timestamp data from the eye tracker data to facilitate the classification of eye fixations. Manor and Gordon (2003) stated that the recommended minimum threshold for fixation duration was 0.1–0.2 s. In this study, the minimum fixation duration was 0.14 s, which was considered as the intention to click on the ball target. The eye fixation point was chosen based on the closest eye fixation location to the ball, which was determined by a circle with a diameter 1.5 times the virtual ball target width. We intended to choose the closest fixation point to minimize inaccuracy in predicting the location of the eye gaze on the ball position.
+
+The accuracy judgement was calculated with the following formula:
+(1) Accuracy = ( 1 − | EFp − IPp IPp | )
+Where.
+
+    EFp = Eye fixation position
+
+    IPp = Image projection position
+
+Eye fixation positions were recorded by Tobii studio in pixels, and then the coordinate positions were converted into mm. Image projection position was measured from the location of the projection image to the screen in mm. The x axis was measured from left to right, and the y axis from the bottom to the top.
+3. Results
+
+This section presents the results of one way repeated-measures ANOVA for the three levels of parallax on each dependent variable: fixation duration, number of fixations, time to first fixation, and accuracy. Post hoc tests were conducted using Tukey's HSD (α = 0.05) when the ANOVA results showed significant effects.
+3.1. Fixation duration
+
+The mean and standard deviations of fixation durations for the three levels of parallax, at the screen, and 20 and 50 cm in front of the screen, were 0.43 s (sd = 0.09), 0.68 s (sd = 0.13), and 0.72 s (sd = 0.25). The fixation duration for parallax of 50 cm in front of the screen was the longest, and that for parallax at the screen was the shortest. The result of repeated measures ANOVA indicated significant interactions between parallax and fixation duration (F 2,18  = 9.25, p = .002). Fig. 4 shows the interaction of parallax and fixation duration. Post hoc analysis results classified the independent variables into two groups. The test results showed that the fixation duration of parallax at the screen was significantly shorter than those of parallax of 20 and 50 cm in front of the screen. The post hoc test was not significant between 20 cm and 50 cm in front of the screen. Fixation duration increased with parallax in general, and it increased rapidly when the virtual ball was 20 and 50 cm in front of the screen as compared to at the screen.
+Fig. 4
+
+    Download high-res image (101KB)
+    Download full-size image
+
+Fig. 4 . Effect of parallax on fixation duration. Participants required longer fixation durations when the virtual ball was projected close to the participants' eyes. The error bar presents the standard error of mean.
+3.2. Number of fixations
+
+The main effect of parallax (F 2,18  = 118.83, p = .000) was significant for number of fixations. The average number of fixations was 3.09 fixations (sd = 0.33) for parallax at the screen, followed by parallax of 20 cm in front of the screen, 1.29 fixations (sd = 0.17); and then parallax of 50 cm in front of the screen, 1.24 fixations (sd = 0.19) (See Fig. 5 ). Post-hoc Tukey test showed that the number of fixations of parallax at the screen differed from those of parallax of 20 and 50 cm in front of the screen. There was no significant difference in number of fixations when the virtual ball was projected at 20 and 50 cm in front of the screen. Number of fixations decreased when the virtual ball was projected closer to the participant's eyes.
+Fig. 5
+
+    Download high-res image (121KB)
+    Download full-size image
+
+Fig. 5 . Effect of parallax on number of fixations. A lower fixation number of fixations occurred when the virtual ball was projected closer to the participant's eyes. The error bar presents the standard error of mean.
+3.3. Time to first fixation
+
+Compared to parallax at the screen, the presence of a virtual ball closer to the participant's eyes (parallax 20 and 50 cm in front of the screen) increased the time to first fixation from 1.13 s (sd = 0.96) to 3.15 s (sd = 1.5) (see Fig. 6 ). There were significant main effects of parallax and time to first fixation (F 2,18  = 7.95, p = .003). Post hoc analysis using Tukey's method for significance indicated that the average time to first fixation was significantly shorter in parallax at the screen than in the other two parallax conditions. However, there was no significant difference between parallax condition 20 cm and 50 cm in front of the screen.
+Fig. 6
+
+    Download high-res image (116KB)
+    Download full-size image
+
+Fig. 6 . Effect of parallax on first time fixation. Participants needed more time to fixate on the virtual objects closer to their eyes. The error bar presents the standard error of mean.
+3.4. Accuracy
+
+There was a significant effect of parallax on eye fixation accuracy (F 2,18  = 5.91, p = .016). The highest accuracy of eye fixation was achieved when the virtual ball was projected at the screen 0.94 (sd = 0.02), followed by the virtual ball projected at 20 cm in front of the screen 0.88 (sd = 0.07) and 50 cm in front of the screen 0.85 (sd = 0.1). Fig. 7 shows the effect of parallax, accuracy of eye fixation, and standard error of mean. The Tukey post hoc result of eye fixation accuracy indicated a significant difference between parallax projected at the screen and the other parallax conditions. However, there was no significant difference between parallax of 20 and 50 cm in front of the screen.
+Fig. 7
+
+    Download high-res image (105KB)
+    Download full-size image
+
+Fig. 7 . Effect of parallax; the accuracy was better when the target was displayed at the screen than at 20 and 50 cm in front of the screen. The error bar presents the standard error of mean.
+4. Discussion
+
+The present study investigated the effects of parallax on eye fixation parameters in projection-based stereoscopic displays. We conducted an experiment using a within-subjects design with parallax as the independent variable. Parallax was assessed for the effects on the fixation duration, number of fixations, time to first fixation, and accuracy. In this experiment, the participants were asked to click virtual balls arranged in a concentric circle and projected at three levels of parallax (at the screen, 20 cm in front of the screen, and 50 cm in front of the screen). The overall results of one-way repeated ANOVA revealed that fixation duration, number of fixations, time to first fixation, and accuracy differed significantly among parallax conditions.
+
+Fixation durations were longer when the virtual ball was 20 and 50 cm in front of the screen than when it was at the screen. Longer fixation durations indicated that the participants required more attention to process information of the virtual target position before they perceived it clearly in the stereoscopic display. According to Henderson (1992) and Reichle et al. (2003) , participant attention did not shift until the information processing of the virtual target was completed. Therefore, the workload of participants’ eyes increased when they perceived the virtual ball closer to their eyes. The fixation duration may have been longer because the participants found it difficult to respond to the cognitive processing ( Goldberg and Kotval, 1999 ). Cognitive processing requires the brain to extract the relative depth information of a virtual target ( Lambooij et al., 2009 ). In addition, longer fixation durations were associated with longer times to first fixation. Longer times to first fixation occurred when participants needed more processing time, such as recognition and identification of a virtual ball located closer to their eyes. Longer eye adaptation and accommodation processes were required to perceive the 3D images clearly.
+
+In the number of fixations, participants achieved greater number of fixations when the virtual ball was projected at the screen than when it was projected 20 and 50 cm in front of the screen. Wang et al. (2012) reported that the number of fixations varied as a function of objects' depth using a 3D TV display. In this study, a projection 3D display was used and the number of fixations decreased when the virtual target was positioned at 20 and 50 cm in front of the screen. Pupillary constriction might have occurred when participants were asked to fixate on the virtual ball in the near distance ( Lambooij et al., 2009 ). Moreover, the eyes would accommodate and converge on the position where the virtual ball appeared. The left and right eyes would move in opposite directions to focus on the location of the virtual ball and then bring the image to the fovea. The lenses would maintain the focus area on the virtual ball in order to perceive a clear image of it. Pupillary constriction, accommodation, and convergence conflict are recognized as the ocular near triad ( Lambooij et al., 2009 , Von noorden and Campos, 2002 ). It is not clear at the moment how and why the relationship exists between the ocular near triad and the depth of the virtual image perceived, as it was reflected in the lower number of fixations found when the virtual ball's position gets closer to participants' eyes. Further research is worthwhile to look into this relationship.
+
+Parallax affects the accuracy of eye fixation in stereoscopic tasks. The highest accuracy occurred when the participant's eyes fixated on the virtual ball projected at the screen, and accuracy was lowest when the virtual ball was projected 20 and 50 cm in front of the screen. The accuracy of eye fixation improved when the deviation between the eye fixation location and the projected images of the virtual ball was low. The low eye fixation accuracy was caused by the high difficulty level of cognitive processing. The difficulty level of cognitive processing may be attributed to microsaccade, eye fixation movement tremor, and drift ( Holmqvist et al., 2011 ). Therefore, the accuracy declined when the virtual ball was projected at 20 and 50 cm in front of the screen. Another expected factor that influenced the accuracy of eye fixation was geometric distortions in the virtual environment. Distortion of the image such as minification, shear distortion, and pincushion distortion might occur in stereoscopic displays ( Renner et al., 2013 ). Since image distortion causes stretching of the image geometry away from the centre of the lens, projection of a virtual target closer to a participant may result in large distortion and inaccuracy of eye fixation.
+
+Eye fixation parameter results in stereoscopic displays have discrepancies with eye fixation parameter results in 2D or screen displays. Goldberg and Kotval (1999) stated that participants performed fewer fixations with a good interface. In addition, a greater number of fixations were associated with longer completion time and longer time to first fixation, which were attributed to more confusion and difficulty in accomplishing a task in 2D or screen displays. In stereoscopic displays, the eye fixation parameter revealed that a smaller of fixations was associated with longer fixation duration, longer time to first fixation, and low accuracy. In stereoscopic displays, this condition arose when participants were required to perceive virtual balls close to their eyes. Therefore, participants will focus to perceive the virtual image in their fovea vision.
+
+Surprisingly, the results of eye fixation accuracy were above 0.85 in stereoscopic displays. The virtual ball closest to the participant's eyes yielded the lowest accuracy result. The findings indicated that eye fixation can be a promising technique for observing eye behaviour in stereoscopic displays. The highest accuracy of eye fixation indicated that significant performance can be achieved in stereoscopic displays. The findings of this study indicate that eye fixation may be a potential parameter to consider for designing effective tasks to improve usability of stereoscopic displays.
+5. Conclusion
+
+In this study, we experimentally investigated the eye fixation parameters in three different levels of parallax (at screen, and 20 and 50 cm in front of the screen). Overall repeated measure ANOVA results showed that parallax had significant effects on eye fixation duration, number of fixations, time to first fixation, and accuracy. The important findings of this study were that smaller numbers of fixations were associated with longer fixation duration, longer times to first fixation, and low accuracy. The lowest number of fixations, longest fixation duration, longest time to first fixation, and lowest eye fixation accuracy occurred when the virtual ball was projected 50 cm in front of the screen. That condition may be attributed to the vergence accommodation conflict, cognitive processing, and the ocular near triad when the virtual ball was projected closer to the participant's eyes. This paper presents important findings of parallax effects on the eye fixation parameter in stereoscopic displays, which can be considered an important parameter to improve the usability of stereoscopic displays. This study was limited to investigate the effects of parallax on the eye fixation parameter in stereoscopic displays. Further research will be required to address the visual fatigue symptoms and eye behaviour in real and stereoscopic displays.
+Acknowledgements
+
+This work was supported by the Ministry of Science and Technology of Taiwan (MOST 103-2221-E-011-100-MY3 ).
+Recommended articles Citing articles (2)
+References
+
+Alshaer et al., 2017
+    A. Alshaer, H. Regenbrecht, D. O’hare Immersion factors affecting perception and behaviour in a virtual reality power wheelchair simulator
+    Appl. Ergon., 58 (2017), pp. 1-12
+    Article Download PDF View Record in Scopus Google Scholar
+Azuma et al., 2001
+    R. Azuma, Y. Baillot, R. Behringer, S. Feiner, S. Julier, B. Macintyre Recent advances in augmented reality
+    IEEE Comput. Graph. Appl., 21 (2001), pp. 34-47
+    CrossRef View Record in Scopus Google Scholar
+Bell and Fogler, 1995
+    J.T. Bell, H.S. Fogler The investigation and application of virtual reality as an educational tool
+    Proceedings of the American Society for Engineering Education Annual Conference (1995), pp. 1718-1728
+    View Record in Scopus Google Scholar
+Benko et al., 2004
+    H. Benko, E.W. Ishak, S. Feiner Collaborative mixed reality visualization of an archaeological excavation
+    Proceedings of the 3rd IEEE/ACM International Symposium on Mixed and Augmented Reality, IEEE Computer Society (2004), pp. 132-140
+    CrossRef View Record in Scopus Google Scholar
+Blignaut, 2009
+    P. Blignaut Fixation identification: the optimum threshold for a dispersion algorithm
+    Atten. Percept. Psychophys., 71 (2009), pp. 881-895
+    CrossRef View Record in Scopus Google Scholar
+Burdea, 2002
+    G. Burdea Keynote Address: Virtual Rehabilitation-benefits and Challenges. 1st International Workshop on Virtual Reality Rehabilitation (Mental Health, Neurological, Physical, Vocational) VRMHR
+    (2002), pp. 1-11
+    sn
+    View Record in Scopus Google Scholar
+Council, 1983
+    N.R. Council Video Displays, Work, and Vision
+    National Academies Press (1983)
+    Google Scholar
+Czernuszenko et al., 1997
+    M. Czernuszenko, D. Pape, D. Sandin, T. Defanti, G.L. Dawe, M.D. Brown The ImmersaDesk and Infinity Wall projection-based virtual reality displays
+    ACM SIGGRAPH Comput. Graph., 31 (1997), pp. 46-49
+    CrossRef View Record in Scopus Google Scholar
+Deutsch and Deutsch, 1963
+    J.A. Deutsch, D. Deutsch Attention: some theoretical considerations
+    Psychol. Rev., 70 (1963), p. 80
+    CrossRef View Record in Scopus Google Scholar
+Drewes, 2010
+    H. Drewes Eye Gaze Tracking for Human Computer Interaction
+    (2010)
+    (lmu)
+    Google Scholar
+Duchowski, 2007
+    A. Duchowski Eye Tracking Methodology: Theory and Practice
+    Springer Science & Business Media (2007)
+    Google Scholar
+Emoto et al., 2005
+    M. Emoto, T. Niida, F. Okano Repeated vergence adaptation causes the decline of visual functions in watching stereoscopic television
+    J. Disp. Technol., 1 (2005), pp. 328-340
+    CrossRef View Record in Scopus Google Scholar
+Goldberg, 2014
+    J.H. Goldberg Measuring software screen complexity: relating eye tracking, emotional valence, and subjective ratings
+    Int. J. Hum. Comput. Interact., 30 (2014), pp. 518-532
+    CrossRef View Record in Scopus Google Scholar
+Goldberg and Kotval, 1999
+    J.H. Goldberg, X.P. Kotval Computer interface evaluation using eye movements: methods and constructs
+    Int. J. Ind. Ergon., 24 (1999), pp. 631-645
+    Article Download PDF View Record in Scopus Google Scholar
+Hart and Karthigasu, 2007
+    R. Hart, K. Karthigasu The benefits of virtual reality simulator training for laparoscopic surgery
+    Curr. Opin. Obstet. Gynecol., 19 (2007), pp. 297-302
+    CrossRef View Record in Scopus Google Scholar
+Henderson, 1992
+    J.M. Henderson Visual attention and eye movement control during reading and picture viewing
+    Eye Movements and Visual Cognition: Scene Perception and Reading, vol. 10 (1992), pp. 260-283
+    CrossRef Google Scholar
+Hoffman et al., 2008
+    D.M. Hoffman, A.R. Girshick, K. Akeley, M.S. Banks Vergence–accommodation conflicts hinder visual performance and cause visual fatigue
+    J. Vis., 8 (2008)
+    33–33
+    Google Scholar
+Holmqvist et al., 2011
+    K. Holmqvist, M.M. Nystr, R. Andersson, R. Dewhurst, H. Jarodzka, J. Van de weijer Eye Tracking: A Comprehensive Guide to Methods and Measures
+    OUP Oxford (2011)
+    Google Scholar
+Knight and Baber, 2007
+    J.F. Knight, C. Baber Effect of head-mounted displays on posture
+    Hum. Factors, 49 (2007), pp. 797-807
+    CrossRef View Record in Scopus Google Scholar
+Kolers et al., 1981
+    P.A. Kolers, R.L. Duchnicky, D.C. Ferguson Eye movement measurement of readability of CRT displays
+    Hum. Factors. J. Hum. Factors Ergon. Soc., 23 (1981), pp. 517-527
+    CrossRef View Record in Scopus Google Scholar
+Lambooij et al., 2009
+    M. Lambooij, M. Fortuin, I. Heynderickx, W. Ijsselsteijn Visual discomfort and visual fatigue of stereoscopic displays: a review
+    J. Imag. Sci. Technol., 53 (2009)
+    30201–1-30201-14
+    Google Scholar
+Lang et al., 2010
+    M. Lang, A. Hornung, O. Wang, S. Poulakos, A. Smolic, M. Gross Nonlinear disparity mapping for stereoscopic 3D
+    ACM Trans. Graph., 29 (2010), p. 75
+    CrossRef View Record in Scopus Google Scholar
+Lawson et al., 2016
+    G. Lawson, D. Salanitri, B. Waterfield Future directions for the development of virtual reality within an automotive manufacturer
+    Appl. Ergon., 53 (2016), pp. 323-330
+    Article Download PDF View Record in Scopus Google Scholar
+Lebreton et al., 2012
+    P. Lebreton, A. Raake, M. Barkowsky, P. Le callet Evaluating depth perception of 3D stereoscopic videos
+    IEEE J. Sel. Top. Signal Process., 6 (2012), pp. 710-720
+    CrossRef View Record in Scopus Google Scholar
+Lin and Widyaningrum, 2016
+    C.J. Lin, R. Widyaningrum Eye pointing in stereoscopic displays
+    J. Eye Mov. Res., 9 (2016)
+    Google Scholar
+Lin and Woldegiorgis, 2017
+    C.J. Lin, B.H. Woldegiorgis Egocentric distance perception and performance of direct pointing in stereoscopic displays
+    Appl. Ergon., 64 (2017), pp. 66-74
+    Article Download PDF View Record in Scopus Google Scholar
+Lin et al., 2015a
+    C.J. Lin, H.J. Chen, P.Y. Cheng, T.L. Sun Effects of displays on visually controlled task performance in three-dimensional virtual reality environment
+    Hum. Factors .Ergon. Manuf. Serv. Ind., 25 (2015), pp. 523-533
+    CrossRef View Record in Scopus Google Scholar
+Lin et al., 2015b
+    C.J. Lin, B.H. Woldegiorgis, D. Caesaron, L.-Y. Cheng Distance estimation with mixed real and virtual targets in stereoscopic displays
+    Displays, 36 (2015), pp. 41-48
+    Article Download PDF CrossRef View Record in Scopus Google Scholar
+Mackenzie, 1843
+    W. Mackenzie Asthenopia
+    Ann. Oncol., 10 (1843), pp. 97-115
+    Google Scholar
+Manor and Gordon, 2003
+    B.R. Manor, E. Gordon Defining the temporal threshold for ocular fixation in free-viewing visuocognitive tasks
+    J. Neurosci. Meth., 128 (2003), pp. 85-93
+    Article Download PDF View Record in Scopus Google Scholar
+Mcneill et al., 2004
+    M. Mcneill, L. Pokluda, S. Mcdonough, J. Crosbie Immersive virtual reality for upper limb rehabilitation following stroke. Systems, Man and Cybernetics
+    IEEE International Conference on, 2004. IEEE (2004), pp. 2783-2789
+    CrossRef View Record in Scopus Google Scholar
+Mon-williams et al., 1995
+    M. Mon-williams, J. Wann, S. Rushton Design factors in stereoscopic virtual-reality displays
+    J. Soc. Inf. Disp., 3 (1995), pp. 207-210
+    CrossRef View Record in Scopus Google Scholar
+Mujber et al., 2004
+    T.S. Mujber, T. Szecsi, M.S. Hashmi Virtual reality applications in manufacturing process simulation
+    J. Mater. Process. Technol., 155 (2004), pp. 1834-1838
+    Article Download PDF View Record in Scopus Google Scholar
+Okada et al., 2006
+    Y. Okada, K. Ukai, J.S. Wolffsohn, B. Gilmartin, A. Iijima, T. Bando Target spatial frequency determines the response to conflicting defocus-and convergence-driven accommodative stimuli
+    Vis. Res., 46 (2006), pp. 475-484
+    Article Download PDF View Record in Scopus Google Scholar
+Ooms et al., 2015
+    K. Ooms, L. Dupont, L. Lapon, S. Popelka Accuracy and precision of fixation locations recorded with the low-cost Eye Tribe tracker in different experimental set-ups
+    J. Eye Mov. Res., 8 (2015)
+    Google Scholar
+Pan et al., 2004
+    B. Pan, H.A. Hembrooke, G.K. Gay, L.A. Granka, M.K. Feusner, J.K. Newman The determinants of web page viewing behavior: an eye-tracking study
+    Proceedings of the 2004 Symposium on Eye Tracking Research & Applications, ACM (2004), pp. 147-154
+    CrossRef View Record in Scopus Google Scholar
+Parsons and Mitchell, 2002
+    S. Parsons, P. Mitchell The potential of virtual reality in social skills training for people with autistic spectrum disorders
+    J. Intellect. Disabil. Res., 46 (2002), pp. 430-443
+    CrossRef View Record in Scopus Google Scholar
+Petkov, 2012
+    E. Petkov Generation of stereo images in 3D graphics applications for stereoscopic and nonstereoscopic displays
+    Int. J. Adv. Sci. Technol., 4 (2012)
+    Google Scholar
+Reichle et al., 2003
+    E.D. Reichle, K. Rayner, A. Pollatsek The EZ Reader model of eye-movement control in reading: comparisons to other models
+    Behav. Brain Sci., 26 (2003), pp. 445-476
+    View Record in Scopus Google Scholar
+Renner et al., 2013
+    R.S. Renner, B.M. Velichkovsky, J.R. Helmert The perception of egocentric distances in virtual environments - a review
+    ACM Comput. Surv., 46 (2013), pp. 1-32
+    View Record in Scopus Google Scholar
+Salvucci and Goldberg, 2000
+    D.D. Salvucci, J.H. Goldberg Identifying fixations and saccades in eye-tracking protocols
+    Proceedings of the 2000 Symposium on Eye Tracking Research & Applications, ACM (2000), pp. 71-78
+    CrossRef View Record in Scopus Google Scholar
+Seigle, 2009
+    D. Seigle 3rd dimension: dimensionalization
+    Veritas Visus, 4 (3) (2009), pp. 69-75
+    View Record in Scopus Google Scholar
+Sharples et al., 2008
+    S. Sharples, S. Cobb, A. Moody, J.R. Wilson Virtual reality induced symptoms and effects (VRISE): comparison of head mounted display (HMD), desktop and projection display systems
+    Displays, 29 (2008), pp. 58-69
+    Article Download PDF View Record in Scopus Google Scholar
+Shic et al., 2008
+    F. Shic, B. Scassellati, K. Chawarska The incomplete fixation measure
+    Proceedings of the 2008 Symposium on Eye Tracking Research & Applications, ACM (2008), pp. 111-114
+    CrossRef View Record in Scopus Google Scholar
+Smith et al., 2012
+    R. Smith, A. Day, T. Rockall, K. Ballard, M. Bailey, I. Jourdan Advanced stereoscopic projection technology significantly improves novice performance of minimally invasive surgical skills
+    Surg. Endosc., 26 (2012), pp. 1522-1527
+    CrossRef View Record in Scopus Google Scholar
+Thornton et al., 2005
+    M. Thornton, S. Marshall, J. Mccomas, H. Finestone, A. Mccormick, H. Sveistrup Benefits of activity and virtual reality based balance exercise programmes for adults with traumatic brain injury: perceptions of participants and their caregivers
+    Brain Inj., 19 (2005), pp. 989-1000
+    CrossRef Google Scholar
+Valkov et al., 2011
+    D. Valkov, F. Steinicke, G. Bruder, K. Hinrichs 2d touching of 3d stereoscopic objects
+    Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, ACM (2011), pp. 1353-1362
+    CrossRef View Record in Scopus Google Scholar
+Von Helmholz, 1897
+    H. Von Helmholz Handbuch Der Physiologischen Optik (Handbook of Physiological Optics)
+    JSTOR (1897)
+    Google Scholar
+Von noorden and Campos, 2002
+    G. Von noorden, E. Campos Physiology of the Ocular Movements. Binocular Vision and Ocular Motility: Theory and Management of Strabismus
+    (sixth ed.), Mosby, St Louis (2002), pp. 52-84
+    Google Scholar
+Wang et al., 2012
+    J. Wang, P. Le callet, S. Tourancheau, V. Ricordel, M.P. Da silva Study of depth bias of observers in free viewing of still stereoscopic synthetic stimuli
+    J. Eye Mov. Res., 5 (2012)
+    Google Scholar
+Wann et al., 1995
+    J.P. Wann, S. Rushton, M. Mon-williams Natural problems for stereoscopic depth perception in virtual environments
+    Vis. Res., 35 (1995), pp. 2731-2736
+    Article Download PDF View Record in Scopus Google Scholar
+Zhou et al., 2008
+    F. Zhou, H.B.-L. Duh, M. Billinghurst Trends in augmented reality tracking, interaction and display: a review of ten years of ISMAR
+    Proceedings of the 7th IEEE/ACM International Symposium on Mixed and Augmented Reality, IEEE Computer Society (2008), pp. 193-202
+    View Record in Scopus Google Scholar
+
+© 2018 Elsevier Ltd. All rights reserved.
+Recommended articles
+
+    Influence of folding mechanism of bicycles on their usability
+    Applied Ergonomics, Volume 69, 2018, pp. 58-65
+    Download PDF View details
+    Egocentric distance perception and performance of direct pointing in stereoscopic displays
+    Applied Ergonomics, Volume 64, 2017, pp. 66-74
+    Download PDF View details
+    Virtual reality sickness questionnaire (VRSQ): Motion sickness measurement index in a virtual reality environment
+    Applied Ergonomics, Volume 69, 2018, pp. 66-73
+    Download PDF View details
+
+1 2 Next
+Citing articles (2)
+
+    Eye and EEG activity markers for visual comfort level of images
+    2018, Biocybernetics and Biomedical Engineering
+    Download PDF View details
+    Eye movement parameters for performance evaluation in projection-based stereoscopic display
+    2018, Journal of Eye Movement Research
+    View details
+
+Article Metrics
+View article metrics
+Elsevier
+
+About ScienceDirect Remote access Shopping cart Contact and support Terms and conditions Privacy policy
+
+We use cookies to help provide and enhance our service and tailor content and ads. By continuing you agree to the use of cookies .
+
+Copyright © 2018 Elsevier B.V. or its licensors or contributors. ScienceDirect ® is a registered trademark of Elsevier B.V.
+RELX Group

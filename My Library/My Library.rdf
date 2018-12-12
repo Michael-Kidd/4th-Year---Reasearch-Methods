@@ -1,0 +1,1010 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Document rdf:about="https://www.zotero.org/download/connectors">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_3"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.zotero.org/download/connectors</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-12-11 15:35:28</dcterms:dateSubmitted>
+        <dc:title>Zotero | Connectors</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_3">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/3/connectors.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.zotero.org/download/connectors</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-12-11 15:35:28</dcterms:dateSubmitted>
+        <dc:title>Zotero | Connectors</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.thieme-connect.de/DOI/DOI?10.1055/s-0038-1634378">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0026-1270,%202511-705X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Burdea</foaf:surname>
+                        <foaf:givenname>G. C.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_5"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>augmented rehabilitation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>based rehabilitation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>cognitive rehabilitation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>post</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>stroke rehabilitation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>telerehabilitation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>VR</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.thieme-connect.de/DOI/DOI?10.1055/s-0038-1634378</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>Schattauer GmbH</dc:rights>
+        <bib:pages>519-523</bib:pages>
+        <dc:date>2003</dc:date>
+        <dcterms:dateSubmitted>2018-12-11 15:40:52</dcterms:dateSubmitted>
+        <z:libraryCatalog>www.thieme-connect.com</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>Objectives:  To discuss the advantages and disadvantages of rehabilitation applications of virtual reality.
+
+   Methods:  VR can be used as an enhancement to conventional therapy for patients with conditions ranging from musculo-skeletal problems, to stroke-induced paralysis, to cognitive deficits. This approach is called “VR-augmented rehabilitation.” Alternately, VR can replace conventional interventions altogether, in which case the rehabilitation is “VR-based.” If the intervention is done at a distance, then it is called “telerehabilitation.” Simulation exercises for post-stroke patients have been developed using a “teacher object” approach or a video game approach. Simulations for musculo-skeletal patients use virtual replicas of rehabilitation devices (such as rubber ball, power putty, peg board). Phobia-inducing virtual environments are prescribed for patients with cognitive deficits.
+
+   Results:  VR-augmented rehabilitation has been shown effective for stroke patients in the chronic phase of the disease. VR-based rehabilitation has been improving patients with fear of flying, Vietnam syndrome, fear of heights, and chronic stroke patients. Telerehabilitation interventions using VR have improved musculo-skeletal and post-stroke patients, however less data is available at this time.
+
+   Conclusions:  Virtual reality presents significant advantages when applied to rehabilitation of patients with varied conditions. These advantages include patient motivation, adaptability and variability based on patient baseline, transparent data storage, online remote data access, economy of scale, reduced medical costs. Challenges in VR use for rehabilitation relate to lack of computer skills on the part of therapists, lack of support infrastructure, expensive equipment (initially), inadequate communication infrastructure (for telerehabilitation in rural areas), and patient safety concerns.</dcterms:abstract>
+        <dc:title>Virtual Rehabilitation – Benefits and Challenges</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0026-1270,%202511-705X">
+        <prism:volume>42</prism:volume>
+        <prism:number>5</prism:number>
+        <dc:title>Methods of Information in Medicine</dc:title>
+        <dc:identifier>ISSN 0026-1270, 2511-705X</dc:identifier>
+        <dcterms:alternative>Methods Inf Med</dcterms:alternative>
+        <dc:identifier>DOI 10.1055/s-0038-1634378</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_5">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/5/login.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://profile.thieme.de/HTML/sso/ejournals/login.htm?type=default&amp;subsidiary=www.thieme-connect.com&amp;hook_url=https%3A%2F%2Fwww.thieme-connect.com%2Fproducts%2Fejournals%2Fhtml%2F10.1055%2Fs-0038-1634378</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-12-11 15:40:55</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S0887618517306114">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0887-6185"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fernández-Álvarez</foaf:surname>
+                        <foaf:givenname>Javier</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rozental</foaf:surname>
+                        <foaf:givenname>Alexander</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Carlbring</foaf:surname>
+                        <foaf:givenname>Per</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Colombo</foaf:surname>
+                        <foaf:givenname>Desirée</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Riva</foaf:surname>
+                        <foaf:givenname>Giuseppe</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Anderson</foaf:surname>
+                        <foaf:givenname>Page L.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Baños</foaf:surname>
+                        <foaf:givenname>Rosa María</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Benbow</foaf:surname>
+                        <foaf:givenname>Amanda A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bouchard</foaf:surname>
+                        <foaf:givenname>Stéphane</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bretón-López</foaf:surname>
+                        <foaf:givenname>Juana María</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cárdenas</foaf:surname>
+                        <foaf:givenname>Georgina</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Difede</foaf:surname>
+                        <foaf:givenname>JoAnn</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Emmelkamp</foaf:surname>
+                        <foaf:givenname>Paul</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>García-Palacios</foaf:surname>
+                        <foaf:givenname>Azucena</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guillén</foaf:surname>
+                        <foaf:givenname>Verónica</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hoffman</foaf:surname>
+                        <foaf:givenname>Hunter</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kampann</foaf:surname>
+                        <foaf:givenname>Isabel</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moldovan</foaf:surname>
+                        <foaf:givenname>Ramona</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mühlberger</foaf:surname>
+                        <foaf:givenname>Andreas</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>North</foaf:surname>
+                        <foaf:givenname>Max</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pauli</foaf:surname>
+                        <foaf:givenname>Paul</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Peñate Castro</foaf:surname>
+                        <foaf:givenname>Wenceslao</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Quero</foaf:surname>
+                        <foaf:givenname>Soledad</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tortella-Feliu</foaf:surname>
+                        <foaf:givenname>Miquel</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wyka</foaf:surname>
+                        <foaf:givenname>Kataryzna</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Botella</foaf:surname>
+                        <foaf:givenname>Cristina</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_8"/>
+        <link:link rdf:resource="#item_7"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Anxiety disorders</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Deterioration rates</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Individual patient data analysis</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Virtual reality</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S0887618517306114</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>July 17, 2018</dc:date>
+        <dcterms:dateSubmitted>2018-12-11 21:56:04</dcterms:dateSubmitted>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dcterms:abstract>Ample evidence supports the use of Virtual Reality (VR) for anxiety disorders. Nonetheless, currently there is no evidence about moderators or potential negative effects of VR treatment strategies. An Individual Patient Data (IPD) approach was employed with 15 retrieved datasets. The current study sample was composed of 810 patients. Randomized control trials (RCTs) for each primary outcome measure were performed, in addition to moderator analyses of the socio-demographic variables. Deterioration rates were 14 patients (4.0%) in VR, 8 (2.8%) in active control conditions, and 27 (15%) in the WL condition. With regard to receiving treatment, patients in a waiting list control condition had greater odds of deteriorating than in the two active conditions, odds ratios (ORs) 4.87, 95% confidence interval (CI) [0.05, 0.67]. In the case of the socio-demographic variables, none of them were associated with higher or lower odds of deterioration, with the exception of marital status in the WL condition; married people presented a significantly lower probability of deterioration, OR 0.19, 95% CI [0.05, 0.67]. Finally, when comparing pooled effects of VR versus all control conditions, the OR was 0.61 (95% CI 0.31–1.23) in favor of VR, although this result was not statistically significant. This study provides evidence about the deterioration rates of a therapeutic VR approach, showing that the number of deteriorated patients coincides with other therapeutic approaches, and that deterioration is less likely to occur, compared to patients in WL control groups.</dcterms:abstract>
+        <dc:title>Deterioration rates in Virtual Reality Therapy: An individual patient data level meta-analysis</dc:title>
+        <z:shortTitle>Deterioration rates in Virtual Reality Therapy</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0887-6185">
+        <dc:title>Journal of Anxiety Disorders</dc:title>
+        <dc:identifier>ISSN 0887-6185</dc:identifier>
+        <dcterms:alternative>Journal of Anxiety Disorders</dcterms:alternative>
+        <dc:identifier>DOI 10.1016/j.janxdis.2018.06.005</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_8">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8/Fernández-Álvarez et al. - 2018 - Deterioration rates in Virtual Reality Therapy An.pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ac.els-cdn.com/S0887618517306114/1-s2.0-S0887618517306114-main.pdf?_tid=67dceb4b-3a3d-4d61-b9f8-2c3a596cef2d&amp;acdnat=1544565543_89a21522617236ae0f2af9806bcd0d7b</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-12-11 21:56:14</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_7">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/7/S0887618517306114.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0887618517306114?</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-12-11 21:56:10</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="http://resolver.ebscohost.com/openurl?sid=EBSCO%3aedswsc&amp;genre=article&amp;issn=14388871&amp;ISBN=&amp;volume=19&amp;issue=12&amp;date=20171201&amp;spage=&amp;pages=&amp;title=JOURNAL+OF+MEDICAL+INTERNET+RESEARCH&amp;atitle=Public+Perceptions+Regarding+Use+of+Virtual+Reality+in+Health+Care%3a+A+Social+Media+Content+Analysis+Using+Facebook&amp;aulast=Keller%2c+Michelle+Sophie&amp;id=DOI%3a10.2196%2fjmir.7467&amp;site=ftf-live&amp;IdpId=">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_10"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://resolver.ebscohost.com/openurl?sid=EBSCO%3aedswsc&amp;genre=article&amp;issn=14388871&amp;ISBN=&amp;volume=19&amp;issue=12&amp;date=20171201&amp;spage=&amp;pages=&amp;title=JOURNAL+OF+MEDICAL+INTERNET+RESEARCH&amp;atitle=Public+Perceptions+Regarding+Use+of+Virtual+Reality+in+Health+Care%3a+A+Social+Media+Content+Analysis+Using+Facebook&amp;aulast=Keller%2c+Michelle+Sophie&amp;id=DOI%3a10.2196%2fjmir.7467&amp;site=ftf-live&amp;IdpId=</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-12-11 21:56:25</dcterms:dateSubmitted>
+        <dc:title>Public Perceptions Regarding Use of Virtual Realit...: Full Text Finder Results</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_10">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/10/openurl.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://resolver.ebscohost.com/openurl?sid=EBSCO%3aedswsc&amp;genre=article&amp;issn=14388871&amp;ISBN=&amp;volume=19&amp;issue=12&amp;date=20171201&amp;spage=&amp;pages=&amp;title=JOURNAL+OF+MEDICAL+INTERNET+RESEARCH&amp;atitle=Public+Perceptions+Regarding+Use+of+Virtual+Reality+in+Health+Care%3a+A+Social+Media+Content+Analysis+Using+Facebook&amp;aulast=Keller%2c+Michelle+Sophie&amp;id=DOI%3a10.2196%2fjmir.7467&amp;site=ftf-live&amp;IdpId=</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-12-11 21:56:26</dcterms:dateSubmitted>
+        <dc:title>Public Perceptions Regarding Use of Virtual Realit...: Full Text Finder Results</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://search.ebscohost.com/login.aspx?direct=true&amp;db=edswss&amp;AN=000446004900015&amp;site=eds-live">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:15365050"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dyer</foaf:surname>
+                        <foaf:givenname>Elizabeth</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Swartzlander</foaf:surname>
+                        <foaf:givenname>Barbara J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gugliucci</foaf:surname>
+                        <foaf:givenname>Marilyn R.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_12"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://search.ebscohost.com/login.aspx?direct=true&amp;db=edswss&amp;AN=000446004900015&amp;site=eds-live</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>498-500</bib:pages>
+        <dc:date>OCT 2018</dc:date>
+        <dcterms:dateSubmitted>2018-12-11 22:03:10</dcterms:dateSubmitted>
+        <z:libraryCatalog>EBSCOHost</z:libraryCatalog>
+        <dc:title>Using virtual reality in medical education to teach empathy</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:15365050">
+        <prism:volume>106</prism:volume>
+        <prism:number>4</prism:number>
+        <dc:title>JOURNAL OF THE MEDICAL LIBRARY ASSOCIATION</dc:title>
+        <dc:identifier>ISSN 15365050</dc:identifier>
+        <dcterms:alternative>JOURNAL OF THE MEDICAL LIBRARY ASSOCIATION</dcterms:alternative>
+        <dc:identifier>DOI 10.5195/jmla.2018.518</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_12">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/12/Dyer et al. - 2018 - Using virtual reality in medical education to teac.pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://content.ebscohost.com/ContentServer.asp?T=P&amp;P=AN&amp;K=132210164&amp;S=R&amp;D=a9h&amp;EbscoContent=dGJyMNLr40Sep684wtvhOLCmr1Cep7VSrqi4TbWWxWXS&amp;ContentCustomer=dGJyMPGotk%2BxprFLuePfgeyx43zx</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-12-11 22:03:11</dcterms:dateSubmitted>
+        <dc:title>EBSCO Full Text</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://search.ebscohost.com/login.aspx?direct=true&amp;db=cin20&amp;AN=115358843&amp;site=eds-live">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0026-4075"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Ka-Chun Siu</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Best</foaf:surname>
+                        <foaf:givenname>Bradley J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Jong Wook Kim</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Oleynikov</foaf:surname>
+                        <foaf:givenname>Dmitry</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ritter</foaf:surname>
+                        <foaf:givenname>Frank E.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Siu</foaf:surname>
+                        <foaf:givenname>Ka-Chun</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kim</foaf:surname>
+                        <foaf:givenname>Jong Wook</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_15"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://search.ebscohost.com/login.aspx?direct=true&amp;db=cin20&amp;AN=115358843&amp;site=eds-live</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>214-220</bib:pages>
+        <dc:date>May 2, 2016</dc:date>
+        <dcterms:dateSubmitted>2018-12-11 22:07:25</dcterms:dateSubmitted>
+        <z:libraryCatalog>EBSCOhost</z:libraryCatalog>
+        <dcterms:abstract>The Department of Defense has pursued the integration of virtual reality simulation into medical training and applications to fulfill the need to train 100,000 military health care personnel annually. Medical personnel transitions, both when entering an operational area and returning to the civilian theater, are characterized by the need to rapidly reacquire skills that are essential but have decayed through disuse or infrequent use. Improved efficiency in reacquiring such skills is critical to avoid the likelihood of mistakes that may result in mortality and morbidity. We focus here on a study testing a theory of how the skills required for minimally invasive surgery for military surgeons are learned and retained. Our adaptive virtual reality surgical training system will incorporate an intelligent mechanism for tracking performance that will recognize skill deficiencies and generate an optimal adaptive training schedule. Our design is modeling skill acquisition based on a skill retention theory. The complexity of appropriate training tasks is adjusted according to the level of retention and/or surgical experience. Based on preliminary work, our system will improve the capability to interactively assess the level of skills learning and decay, optimizes skill relearning across levels of surgical experience, and positively impact skill maintenance. Our system could eventually reduce mortality and morbidity by providing trainees with the reexperience they need to help make a transition between operating theaters. This article reports some data that will support adaptive tutoring of minimally invasive surgery and similar surgical skills.</dcterms:abstract>
+        <dc:title>Adaptive Virtual Reality Training to Optimize Military Medical Skills Acquisition and Retention</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0026-4075">
+        <prism:volume>181</prism:volume>
+        <dc:title>Military Medicine</dc:title>
+        <dc:identifier>ISSN 0026-4075</dc:identifier>
+        <dcterms:alternative>Military Medicine</dcterms:alternative>
+        <dc:identifier>DOI 10.7205/MILMED-D-15-00164</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_15">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/15/Ka-Chun Siu et al. - 2016 - Adaptive Virtual Reality Training to Optimize Mili.pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://content.ebscohost.com/ContentServer.asp?T=P&amp;P=AN&amp;K=115358843&amp;S=R&amp;D=hch&amp;EbscoContent=dGJyMNLr40Sep684wtvhOLCmr1Cep7VSrq24SbWWxWXS&amp;ContentCustomer=dGJyMPGotk%2BxprFLuePfgeyx43zx</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-12-11 22:09:04</dcterms:dateSubmitted>
+        <dc:title>EBSCO Full Text</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S0094576517316855">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0094-5765"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Salamon</foaf:surname>
+                        <foaf:givenname>Nick</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Grimm</foaf:surname>
+                        <foaf:givenname>Jonathan M.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Horack</foaf:surname>
+                        <foaf:givenname>John M.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Newton</foaf:surname>
+                        <foaf:givenname>Elizabeth K.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_18"/>
+        <link:link rdf:resource="#item_17"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S0094576517316855</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>117-122</bib:pages>
+        <dc:date>May 1, 2018</dc:date>
+        <dcterms:dateSubmitted>2018-12-11 22:57:26</dcterms:dateSubmitted>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dcterms:abstract>Human exploration of the solar system brings a host of environmental and engineering challenges. Among the most important factors in crew health and human performance is the preservation of mental health. The mental well-being of astronaut crews is a significant issue affecting the success of long-duration space missions, such as habitation on or around the Moon, Mars exploration, and eventual colonization of the solar system. If mental health is not properly addressed, these missions will be at risk. Upkeep of mental health will be especially difficult on long duration missions because many of the support systems available to crews on shorter missions will not be available. In this paper, we examine the use of immersive virtual reality (VR) simulations to maintain healthy mental states in astronaut crews who are removed from the essential comforts typically associated with terrestrial life. Various methods of simulations and their administration are analyzed in the context of current research and knowledge in the fields of psychology, medicine, and space sciences, with a specific focus on the environment faced by astronauts on long-term missions. The results of this investigation show that virtual reality should be considered a plausible measure in preventing mental state deterioration in astronauts, though more work is needed to provide a comprehensive view of the effectiveness and administration of VR methods.</dcterms:abstract>
+        <dc:title>Application of virtual reality for crew mental health in extended-duration space missions</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0094-5765">
+        <prism:volume>146</prism:volume>
+        <dc:title>Acta Astronautica</dc:title>
+        <dc:identifier>ISSN 0094-5765</dc:identifier>
+        <dcterms:alternative>Acta Astronautica</dcterms:alternative>
+        <dc:identifier>DOI 10.1016/j.actaastro.2018.02.034</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_18">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/18/Salamon et al. - 2018 - Application of virtual reality for crew mental hea.pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ac.els-cdn.com/S0094576517316855/1-s2.0-S0094576517316855-main.pdf?_tid=3ab09f07-3eb9-458d-b4b0-23c2b5e66ad9&amp;acdnat=1544569225_96b0c6d06edfbbb978138c588494f038</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-12-11 22:57:31</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_17">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/17/S0094576517316855.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0094576517316855?</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-12-11 22:57:29</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S0165178116300257">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0165-1781"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Valmaggia</foaf:surname>
+                        <foaf:givenname>Lucia R.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Latif</foaf:surname>
+                        <foaf:givenname>Leila</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kempton</foaf:surname>
+                        <foaf:givenname>Matthew J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rus-Calafell</foaf:surname>
+                        <foaf:givenname>Maria</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_21"/>
+        <link:link rdf:resource="#item_20"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Virtual reality</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Mental health</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Systematic review</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S0165178116300257</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>189-195</bib:pages>
+        <dc:date>February 28, 2016</dc:date>
+        <dcterms:dateSubmitted>2018-12-11 23:16:29</dcterms:dateSubmitted>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dcterms:abstract>The aim of this paper is to provide a review of controlled studies of the use of Virtual Reality in psychological treatment (VRT). Medline, PsychInfo, Embase and Web of Science were searched. Only studies comparing immersive virtual reality to a control condition were included. The search resulted in 1180 articles published between 2012 and 2015, of these, 24 were controlled studies. The reviewed studies confirm the effectiveness of VRT compared to treatment as usual, and show similar effectiveness when VRT is compared to conventional treatments. Current developments and future research are discussed.</dcterms:abstract>
+        <dc:title>Virtual reality in the psychological treatment for mental health problems: An systematic review of recent evidence</dc:title>
+        <z:shortTitle>Virtual reality in the psychological treatment for mental health problems</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0165-1781">
+        <prism:volume>236</prism:volume>
+        <dc:title>Psychiatry Research</dc:title>
+        <dc:identifier>ISSN 0165-1781</dc:identifier>
+        <dcterms:alternative>Psychiatry Research</dcterms:alternative>
+        <dc:identifier>DOI 10.1016/j.psychres.2016.01.015</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_21">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/21/Valmaggia et al. - 2016 - Virtual reality in the psychological treatment for.pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ac.els-cdn.com/S0165178116300257/1-s2.0-S0165178116300257-main.pdf?_tid=7849e4ce-857f-4144-9fc7-edd64340fb76&amp;acdnat=1544570369_5944e892d5ae577904490f409a433502</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-12-11 23:16:33</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_20">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/20/S0165178116300257.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0165178116300257</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-12-11 23:16:31</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://search.ebscohost.com/Community.aspx?IdpId=&amp;edls_key=10.81.11.195_8000_9869490&amp;edls_site=webauth&amp;authtype=sso&amp;ugt=723731263C8635773736350632353E3227E361D36813659363E323E331133603&amp;stsug=AjKC4W66ApQG8ilmSo3ItJpDEqZ1PHERwqyIHIkvZbAgEfmrqj5zUUnYqE4PIereHOtYapnQR63XlB4VEq3n5ybxtFSroSzzkVsyy1TZkhlY8t8Mwn3rClOwe6qHtiW4IrRrP6oj0QpHlRuCAuho9XB4ufYfqzXi50INSrJcmz5aHyk&amp;IsAdminMobile=N&amp;encid=22D731163C5635773796356632153C47378371C378C375C373C3437351233653704371035C676C474C5744846BD4774535756524471454456DC44945678447A44EB44BD4377465D53A0552346AF462B437D532B45665541548D45994541436&amp;selectServicesToken=AzL_nG4Z1gzeRtRKH7Z0z0HcysxmeDIH8FrX3DyUIS3MMJpR_Ku97JQBqTUY2KCo4wqrMfIcOC1YItz2MLbHgb94dnaKdWUqHPrfh5BqR48hnGIqcs4Iv3n2ScF7xh8yny1EwJun2d3Hg08pwAHZKN5V0C9VZJG70wbfOF266o_j_VDCijohXiNIvByOCn-QeWGjDMgwOV6e_fj2jMFHrHn6m2_bCRKlF7eX8rSOSyEJlwoEs7sdSNay1bRGtRHhOjgDVNtayud-AbB9ESU44tzOeSO8RQPqTMklAmLqDQj48H4">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_23"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://search.ebscohost.com/Community.aspx?IdpId=&amp;edls_key=10.81.11.195_8000_9869490&amp;edls_site=webauth&amp;authtype=sso&amp;ugt=723731263C8635773736350632353E3227E361D36813659363E323E331133603&amp;stsug=AjKC4W66ApQG8ilmSo3ItJpDEqZ1PHERwqyIHIkvZbAgEfmrqj5zUUnYqE4PIereHOtYapnQR63XlB4VEq3n5ybxtFSroSzzkVsyy1TZkhlY8t8Mwn3rClOwe6qHtiW4IrRrP6oj0QpHlRuCAuho9XB4ufYfqzXi50INSrJcmz5aHyk&amp;IsAdminMobile=N&amp;encid=22D731163C5635773796356632153C47378371C378C375C373C3437351233653704371035C676C474C5744846BD4774535756524471454456DC44945678447A44EB44BD4377465D53A0552346AF462B437D532B45665541548D45994541436&amp;selectServicesToken=AzL_nG4Z1gzeRtRKH7Z0z0HcysxmeDIH8FrX3DyUIS3MMJpR_Ku97JQBqTUY2KCo4wqrMfIcOC1YItz2MLbHgb94dnaKdWUqHPrfh5BqR48hnGIqcs4Iv3n2ScF7xh8yny1EwJun2d3Hg08pwAHZKN5V0C9VZJG70wbfOF266o_j_VDCijohXiNIvByOCn-QeWGjDMgwOV6e_fj2jMFHrHn6m2_bCRKlF7eX8rSOSyEJlwoEs7sdSNay1bRGtRHhOjgDVNtayud-AbB9ESU44tzOeSO8RQPqTMklAmLqDQj48H4</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-12-11 23:17:52</dcterms:dateSubmitted>
+        <dc:title>EBSCO Information Services Service Selection Page</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_23">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/23/Community.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://search.ebscohost.com/Community.aspx?IdpId=&amp;edls_key=10.81.11.195_8000_9869490&amp;edls_site=webauth&amp;authtype=sso&amp;ugt=723731263C8635773736350632353E3227E361D36813659363E323E331133603&amp;stsug=AjKC4W66ApQG8ilmSo3ItJpDEqZ1PHERwqyIHIkvZbAgEfmrqj5zUUnYqE4PIereHOtYapnQR63XlB4VEq3n5ybxtFSroSzzkVsyy1TZkhlY8t8Mwn3rClOwe6qHtiW4IrRrP6oj0QpHlRuCAuho9XB4ufYfqzXi50INSrJcmz5aHyk&amp;IsAdminMobile=N&amp;encid=22D731163C5635773796356632153C47378371C378C375C373C3437351233653704371035C676C474C5744846BD4774535756524471454456DC44945678447A44EB44BD4377465D53A0552346AF462B437D532B45665541548D45994541436&amp;selectServicesToken=AzL_nG4Z1gzeRtRKH7Z0z0HcysxmeDIH8FrX3DyUIS3MMJpR_Ku97JQBqTUY2KCo4wqrMfIcOC1YItz2MLbHgb94dnaKdWUqHPrfh5BqR48hnGIqcs4Iv3n2ScF7xh8yny1EwJun2d3Hg08pwAHZKN5V0C9VZJG70wbfOF266o_j_VDCijohXiNIvByOCn-QeWGjDMgwOV6e_fj2jMFHrHn6m2_bCRKlF7eX8rSOSyEJlwoEs7sdSNay1bRGtRHhOjgDVNtayud-AbB9ESU44tzOeSO8RQPqTMklAmLqDQj48H4</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-12-11 23:17:54</dcterms:dateSubmitted>
+        <dc:title>EBSCO Information Services Service Selection Page</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S0163834313000698">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0163-8343"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mohr</foaf:surname>
+                        <foaf:givenname>David C.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Burns</foaf:surname>
+                        <foaf:givenname>Michelle Nicole</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schueller</foaf:surname>
+                        <foaf:givenname>Stephen M.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Clarke</foaf:surname>
+                        <foaf:givenname>Gregory</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Klinkman</foaf:surname>
+                        <foaf:givenname>Michael</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_26"/>
+        <link:link rdf:resource="#item_25"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>eHealth</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Informatics</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>mHealth</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Psychiatry</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Psychology</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Telemedicine</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S0163834313000698</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>332-338</bib:pages>
+        <dc:date>July 1, 2013</dc:date>
+        <dcterms:dateSubmitted>2018-12-11 23:18:41</dcterms:dateSubmitted>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dcterms:abstract>Objective
+A technical expert panel convened by the Agency for Healthcare Research and Quality and the National Institute of Mental Health was charged with reviewing the state of research on behavioral intervention technologies (BITs) in mental health and identifying the top research priorities. BITs refers to behavioral and psychological interventions that use information and communication technology features to address behavioral and mental health outcomes.
+Method
+This study on the findings of the technical expert panel.
+Results
+Videoconferencing and standard telephone technologies to deliver psychotherapy have been well validated. Web-based interventions have shown efficacy across a broad range of mental health outcomes. Social media such as online support groups have produced disappointing outcomes when used alone. Mobile technologies have received limited attention for mental health outcomes. Virtual reality has shown good efficacy for anxiety and pediatric disorders. Serious gaming has received little work in mental health.
+Conclusion
+Research focused on understanding reach, adherence, barriers and cost is recommended. Improvements in the collection, storage, analysis and visualization of big data will be required. New theoretical models and evaluation strategies will be required. Finally, for BITs to have a public health impact, research on implementation and application to prevention is required.</dcterms:abstract>
+        <dc:title>Behavioral Intervention Technologies: Evidence review and recommendations for future research in mental health</dc:title>
+        <z:shortTitle>Behavioral Intervention Technologies</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0163-8343">
+        <prism:volume>35</prism:volume>
+        <prism:number>4</prism:number>
+        <dc:title>General Hospital Psychiatry</dc:title>
+        <dc:identifier>ISSN 0163-8343</dc:identifier>
+        <dcterms:alternative>General Hospital Psychiatry</dcterms:alternative>
+        <dc:identifier>DOI 10.1016/j.genhosppsych.2013.03.008</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_26">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/26/Mohr et al. - 2013 - Behavioral Intervention Technologies Evidence rev.pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ac.els-cdn.com/S0163834313000698/1-s2.0-S0163834313000698-main.pdf?_tid=e3cdaaee-d071-4127-aa15-dd1295675e20&amp;acdnat=1544570501_1aef4cdc0ff1b96a01b92e9ace80d3c9</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-12-11 23:18:44</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_25">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/25/S0163834313000698.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0163834313000698?</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-12-11 23:18:43</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S0003687017302867">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0003-6870"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lin</foaf:surname>
+                        <foaf:givenname>Chiuhsiang Joe</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Widyaningrum</foaf:surname>
+                        <foaf:givenname>Retno</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_29"/>
+        <link:link rdf:resource="#item_28"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>3D tasks</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Depth perception</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Eye fixation</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S0003687017302867</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>10-16</bib:pages>
+        <dc:date>May 1, 2018</dc:date>
+        <dcterms:dateSubmitted>2018-12-11 23:20:26</dcterms:dateSubmitted>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dcterms:abstract>The promising technology of stereoscopic displays is interesting to explore because 3D virtual applications are widely known. Thus, this study investigated the effect of parallax on eye fixation in stereoscopic displays. The experiment was conducted in three different levels of parallax, in which virtual balls were projected at the screen, at 20 cm and 50 cm in front the screen. The two important findings of this study are that parallax has significant effects on fixation duration, time to first fixation, number of fixations, and accuracy. The participant had more accurate fixations, fewer fixations, shorter fixation durations, and shorter times to first fixation when the virtual ball was projected at the screen than when it was projected at the other two levels of parallax.</dcterms:abstract>
+        <dc:title>The effect of parallax on eye fixation parameter in projection-based stereoscopic displays</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0003-6870">
+        <prism:volume>69</prism:volume>
+        <dc:title>Applied Ergonomics</dc:title>
+        <dc:identifier>ISSN 0003-6870</dc:identifier>
+        <dcterms:alternative>Applied Ergonomics</dcterms:alternative>
+        <dc:identifier>DOI 10.1016/j.apergo.2017.12.020</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_29">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/29/Lin and Widyaningrum - 2018 - The effect of parallax on eye fixation parameter i.pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ac.els-cdn.com/S0003687017302867/1-s2.0-S0003687017302867-main.pdf?_tid=703ff23c-27fb-4944-980f-693dfe8d04e1&amp;acdnat=1544570605_a64e266deaac8b4850a54aa7a94ca999</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-12-11 23:20:31</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_28">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/28/S0003687017302867.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0003687017302867?</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-12-11 23:20:29</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S0031938415300974">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0031-9384"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nalivaiko</foaf:surname>
+                        <foaf:givenname>Eugene</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Davis</foaf:surname>
+                        <foaf:givenname>Simon L.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Blackmore</foaf:surname>
+                        <foaf:givenname>Karen L.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vakulin</foaf:surname>
+                        <foaf:givenname>Andrew</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nesbitt</foaf:surname>
+                        <foaf:givenname>Keith V.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_32"/>
+        <link:link rdf:resource="#item_31"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Heart rate</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Motion sickness</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Nausea</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Reaction time</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Skin temperature</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S0031938415300974</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>583-590</bib:pages>
+        <dc:date>November 1, 2015</dc:date>
+        <dcterms:dateSubmitted>2018-12-11 23:27:42</dcterms:dateSubmitted>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dcterms:abstract>Evidence from studies of provocative motion indicates that motion sickness is tightly linked to the disturbances of thermoregulation. The major aim of the current study was to determine whether provocative visual stimuli (immersion into the virtual reality simulating rides on a rollercoaster) affect skin temperature that reflects thermoregulatory cutaneous responses, and to test whether such stimuli alter cognitive functions. In 26 healthy young volunteers wearing head-mounted display (Oculus Rift), simulated rides consistently provoked vection and nausea, with a significant difference between the two versions of simulation software (Parrot Coaster and Helix). Basal finger temperature had bimodal distribution, with low-temperature group (n=8) having values of 23–29°C, and high-temperature group (n=18) having values of 32–36°C. Effects of cybersickness on finger temperature depended on the basal level of this variable: in subjects from former group it raised by 3–4°C, while in most subjects from the latter group it either did not change or transiently reduced by 1.5–2°C. There was no correlation between the magnitude of changes in the finger temperature and nausea score at the end of simulated ride. Provocative visual stimulation caused prolongation of simple reaction time by 20–50ms; this increase closely correlated with the subjective rating of nausea. Lastly, in subjects who experienced pronounced nausea, heart rate was elevated. We conclude that cybersickness is associated with changes in cutaneous thermoregulatory vascular tone; this further supports the idea of a tight link between motion sickness and thermoregulation. Cybersickness-induced prolongation of reaction time raises obvious concerns regarding the safety of this technology.</dcterms:abstract>
+        <dc:title>Cybersickness provoked by head-mounted display affects cutaneous vascular tone, heart rate and reaction time</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0031-9384">
+        <prism:volume>151</prism:volume>
+        <dc:title>Physiology &amp; Behavior</dc:title>
+        <dc:identifier>ISSN 0031-9384</dc:identifier>
+        <dcterms:alternative>Physiology &amp; Behavior</dcterms:alternative>
+        <dc:identifier>DOI 10.1016/j.physbeh.2015.08.043</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_32">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/32/Nalivaiko et al. - 2015 - Cybersickness provoked by head-mounted display aff.pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ac.els-cdn.com/S0031938415300974/1-s2.0-S0031938415300974-main.pdf?_tid=de650991-380b-4ffb-980a-672a48254d12&amp;acdnat=1544571041_0eaf5308834dbd56ab98fa4ee4fb827e</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-12-11 23:27:47</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_31">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/31/S0031938415300974.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0031938415300974?</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-12-11 23:27:45</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Collection rdf:about="#collection_2">
+        <dc:title>Lit Review</dc:title>
+        <dcterms:hasPart rdf:resource="http://www.sciencedirect.com/science/article/pii/S0887618517306114"/>
+        <dcterms:hasPart rdf:resource="http://search.ebscohost.com/login.aspx?direct=true&amp;db=edswss&amp;AN=000446004900015&amp;site=eds-live"/>
+        <dcterms:hasPart rdf:resource="http://search.ebscohost.com/login.aspx?direct=true&amp;db=cin20&amp;AN=115358843&amp;site=eds-live"/>
+        <dcterms:hasPart rdf:resource="http://www.sciencedirect.com/science/article/pii/S0094576517316855"/>
+        <dcterms:hasPart rdf:resource="http://www.sciencedirect.com/science/article/pii/S0165178116300257"/>
+        <dcterms:hasPart rdf:resource="http://www.sciencedirect.com/science/article/pii/S0163834313000698"/>
+        <dcterms:hasPart rdf:resource="http://www.sciencedirect.com/science/article/pii/S0003687017302867"/>
+        <dcterms:hasPart rdf:resource="http://www.sciencedirect.com/science/article/pii/S0031938415300974"/>
+    </z:Collection>
+</rdf:RDF>

@@ -1,0 +1,206 @@
+Skip to main content
+Brought to you by: GMIT Library
+Brought to you by: GMIT Library
+Close
+ScienceDirect
+Journals & Books
+My account
+Brought to you by: GMIT Library
+Brought to you by: GMIT Library
+Close
+
+My account
+Galway Mayo Institute of Technology, Shibboleth (401002)
+
+    Journals & Books
+
+Details & settings
+
+    Sign out
+    Help 
+
+ 
+Outline
+Download PDF Download
+Share
+Export
+Advanced
+Outline
+
+    Highlights
+    Abstract
+    1. Introduction
+    2. Related work
+    3. Recommendations for future research and implementation
+    4. Conclusions
+    Acknowledgements
+    Appendix A. Supplementary data
+    Research Data
+    References
+
+Show full outline
+Extras (1)
+
+    Data Profile
+
+JavaScript is disabled on your browser. Please enable JavaScript to use all the features on this page.
+Elsevier
+Acta Astronautica
+Volume 146 , May 2018 , Pages 117-122
+Acta Astronautica
+Application of virtual reality for crew mental health in extended-duration space missions
+Author links open overlay panel Nick Salamon a b Jonathan M. Grimm a b John M. Horack a b Elizabeth K. Newton b
+Show more
+https://doi.org/10.1016/j.actaastro.2018.02.034 Get rights and content
+Highlights
+
+•
+
+    Literature related to mental health countermeasures on space missions is reviewed.
+•
+
+    The clear potential of virtual reality to aid mental health in space is discussed.
+•
+
+    Recommendations for future research and implementation are offered.
+
+Abstract
+
+Human exploration of the solar system brings a host of environmental and engineering challenges. Among the most important factors in crew health and human performance is the preservation of mental health. The mental well-being of astronaut crews is a significant issue affecting the success of long-duration space missions, such as habitation on or around the Moon, Mars exploration, and eventual colonization of the solar system. If mental health is not properly addressed, these missions will be at risk. Upkeep of mental health will be especially difficult on long duration missions because many of the support systems available to crews on shorter missions will not be available. In this paper, we examine the use of immersive virtual reality (VR) simulations to maintain healthy mental states in astronaut crews who are removed from the essential comforts typically associated with terrestrial life. Various methods of simulations and their administration are analyzed in the context of current research and knowledge in the fields of psychology, medicine, and space sciences, with a specific focus on the environment faced by astronauts on long-term missions. The results of this investigation show that virtual reality should be considered a plausible measure in preventing mental state deterioration in astronauts, though more work is needed to provide a comprehensive view of the effectiveness and administration of VR methods.
+
+    Previous article in issue
+    Next article in issue
+
+1. Introduction
+1.1. Background
+
+In the early days of US manned spaceflight, relatively little attention was paid to questions of mental fortitude among astronaut corps. Instead, astronauts relied on the discipline required of them during previous careers as military fighter pilots to endure the difficulties of operating in small volume spacecraft. Additionally, mission lengths were on the order of days, not months. These factors of short mission length and a well-disciplined crew helped to facilitate the successes of programs such as Mercury, Gemini, and Apollo in the era of astronaut selection typified by the idea of “the right stuff” [ 1 ].
+
+As national interests evolved to include longer stays in more permanent “space stations,” a greater emphasis was placed on the human factors involved in spaceflight. The shift from short missions focused on proving technical capabilities gave way to longer missions of human habitation for the purpose of experimentation. The missions that took place on stations Salyut, Skylab, and Mir brought attention to the need for psychological support and coping methods for station personnel. The often cited Skylab “mutiny”, during which the crew of Skylab 4 ended communications for a day in order to rest, led to procedural changes like better accommodations for crew stress and workload flexibility [ 1 , 2 ]. In the larger context of extended human spaceflight, however, the incident serves to highlight the central importance of crew mental health in the successful completion of missions. As in any effective strike, it became clear that without the crew, nothing would be accomplished [ 3 , 4 ].
+1.2. Isolation, confinement, and mental health
+
+Today, the crafts used in these early space exploration programs would be classified as isolated and confined environments (ICE): inhabitants are physically separated from other people and conventional support systems, and they are confined to a small capsule [ 5 , 6 ]. Furthermore, the extreme environment around them means that a mistake can be catastrophic. While the sample size of people who have flown in space is small, there is a larger and more accessible population that has experienced similar environments: Submariners, inhabitants of Antarctic bases, and participants in dedicated ICE simulation studies have been seen as populations analogous to those in long-duration space missions [ [7] , [8] , [9] , [10] , [11] ].
+
+The psychological effects of living and working in such environments have been documented by studies of these ICE analogues and evidence from past spaceflights. Psycho-environmental factors of ICE habitats include crowding, lack of privacy, social isolation, and sensory restriction [ 9 , 10 ]. Observed behavioural problems include anger, anxiety, interpersonal conflict, social withdrawal, sleep deprivation, decrease in group cohesion, and decrease in motivation [ 11 ]. Also documented primarily in Russian crews is “asthenia”, which is a disorder often defined by the symptoms of fatigue, concentration and performance decrements, irritability, and sleep disturbances [ 12 ]. Though asthenia is not universally classified as a disorder [ 13 ], the fact that it is frequently reported in cosmonauts suggests that astronauts' cultural background may impact coping in an ICE environment [ 12 , 14 ]. The negative effects listed above could have a serious detrimental impact on a mission if left unmitigated. Furthermore, crew selection procedures do not entirely prevent the occurrence of negative behavioural events [ 11 ], so it is important to have countermeasures in place to predict, prevent, and manage events that could occur.
+
+There are several countermeasures currently in place to help mitigate the risk of behavioural problems on the International Space Station (ISS). NASA astronauts undergo extensive training on behavioural health before missions, including training on how to recognize and deal with psychological problems and interpersonal conflicts [ 4 , 15 ]. While on-orbit, astronauts have access to confidential meetings with a flight surgeon, who is trained to recognize signs of behavioural abnormalities [ 4 ]. Astronauts also receive “care packages” to boost morale, which contain favourite foods and other personal items sent by friends and family [ 2 , 4 ]. There are plentiful opportunities for communication with people on earth. Email is available as a means of keeping correspondence with friends and family, and phone calls can also be made from the ISS. Astronauts may receive surprise calls from favourite public figures [ 2 ]. The station also has an internet connection that, while slow, is readily available for personal use [ 16 ]. Free time can be used to watch movies, look out the window, take pictures, and to pursue other leisure activities at the astronaut's discretion. Looking out the ISS windows at earth has been cited as a highly rewarding, psychologically enriching, and even a transcendent activity, with crewmembers tending to voluntarily take hundreds of pictures of earth [ 17 ]. Other available activities include playing music, games, and reading [ 18 ]. In addition to these activities and countermeasures, days in space have generally been filled with work activity ranging from science experiments to station maintenance. Notably, there have been no major behavioural incidents reported on the ISS.
+
+While inhabitants of the ISS enjoy relative comfort and communication with earth thanks to their position in low earth orbit, future space missions will explore environments far more isolated. Plans to further explore the solar system through human trips to the moon and Mars are beginning to take shape. While the engineering problems are daunting enough, the human element of these missions makes them all the more challenging. For example, a one-way voyage to Mars could last upwards of nine months from departure to arrival, followed by a habitation period of a similar length or longer. During this time, earth will shrink into the background of space as a point of light (dubbed the “Earth out of view phenomenon” [ 19 ]), and the communication lag due to distance between the craft and Earth will become as long as twenty minutes on average [ 20 ]. Both of these factors will serve to further isolate voyagers [ 21 ]. Crews will also have to live in close quarters for the entirety of the mission, leading to a necessary emphasis on group living skills to combat potential interpersonal problems [ 22 ]. Emergency resupply and rescue missions from earth will be impossible. A Martian mission will therefore depend less on the resources of Earth and will instead be more autonomous [ 23 , 24 ]. An increased level of autonomy could lead to large swathes of unscheduled time for crewmembers, which could increase the probability of psychological issues. At the end of the two-week Gemini 7 mission, during which the only objective left was to remain in space, the novelty of orbiting Earth had ended, and Frank Borman and James Lovell read novels to fill the time. Of this period, Borman said, simply, “the last three days were bad” [ 25 ].
+1.3. Virtual reality in space: a novel approach
+
+Borman only had to withstand three days of monotony inside the capsule habitat of Gemini 7. Imagine yourself in a similar capsule environment except with the time scale multiplied by one hundred and you will arrive at a better understanding of the psychological challenge of long-duration spaceflight. Namely, how will it be possible to keep a crew from mentally unravelling as they inhabit a stress-inducing environment for months or years on end? Novel approaches will need to be developed, tested, and implemented to help ensure the safety of crews and missions. To this end, the probable use of virtual reality (VR) technology as a mental health safeguard for astronauts on long space missions is expounded in this paper.
+
+In this context, virtual reality is understood as technology that can visually immerse the user in a simulated environment. This typically involves the use of a headset, or head mounted display (HMD) that occupies the user's entire visual field. While VR is commonly understood as a visual medium, it can also be used to engage the other senses, for a truly “immersive” experience [ 26 ]. What sets VR apart from other media consumption platforms is the possibility of highly convincing simulated environments. This feeling of “presence” (realness) experienced when in a simulated environment effectively means that VR may be used to store many different locations and experiences for the user to explore and enjoy at will [ 27 ].
+
+The main advantages of VR as a means to facilitate coping and salutogenesis (the idea that experiencing a stressful situation can lead to greater well-being [ 1 ]) are its potential for flexibility, breadth, and effectiveness. VR is flexible in that simulations are limited only by processing power and creativity. Furthermore, VR could be used in conjunction with monitoring technologies to become a responsive system that adapts to the needs of individual crewmembers. The possibility for infinite variations means there is wide breadth of applications. To this point, VR has been used in applications as disparate as surgery, military training, the treatment of mental disorders, and many more. As the technology improves and becomes more accessible, this field will expand further. Finally, the immersive nature of VR gives it the ability to create a strong and convincing feeling of presence. Improving visual realism and enhancing audio-visual VR with touch, smell, and taste will likely improve the presence of simulations.
+2. Related work
+
+The development of VR technology has given rise to multiple disparate applications and fields of research. The uses of VR have a range that extends to immersive gaming, astronaut training, pain management therapy, and the treatment of psychological disorders. Research has even been done on how VR can be applied to increase empathy or to get people to use less paper [ 28 , 29 ]. A full review of VR research literature is not within the scope of this paper, but the above examples briefly show how VR has become a useful tool in many different fields.
+
+The specific example of the use of VR in health is of particular importance. A number of research efforts have investigated the potential for the use of VR in the medical field. A subset of these has investigated the use of VR for mental health, and a yet smaller subset has identified VR as a possible solution to the problem of sustaining crew mental health on long-duration space missions. This section will explore some of the progress that has been made by research on how VR can be used in mental health and psychosocial applications.
+2.1. VR for health applications
+
+In recent years, the cost of VR technology has gone down, while its quality has increased. As a result, more researchers have been able to run experiments examining the possible uses of VR in medicine. Notable examples include the use of VR for physical and mental rehabilitation, and the treatment of mental disorders. This is relevant to the need for mental health support on long-duration space missions.
+
+VR simulations have been shown to effectively distract burn victims and cancer patients from pain, resulting in decreased ratings of pain among inpatient study participants [ 30 ]. VR has also been used to treat eating disorders. Studies on obese patients have found VR therapy to be effective in improving body image, reducing emotional eating, and reducing depressive symptoms [ 30 , 31 ]. Phobias have also been effectively treated using VR. People suffering from fear of heights, agoraphobia, public speaking anxiety, fear of flying, and arachnophobia have been effectively treated using exposure therapy delivered through VR simulations [ 31 , 32 ]. In cases of comparison with standard accepted treatments like in vivo exposure and cognitive behavioural therapy (CBT), VR has been similarly effective [ 32 ]. Symptoms of post-traumatic stress disorder (PTSD) have also been significantly reduced after VR therapy, with improvement remaining on follow up (six months, in one study) [ 32 , 33 ]. Additionally, patients report high levels of acceptability of the treatment [ 33 ]. VR therapy has even improved cognitive function and reduced negative symptoms in patients with schizophrenia [ 31 ]. As a final example, VR training has been shown to increase the chance of receiving a job offer among schizophrenic and autistic people [ 31 ].
+
+These initial successes in the realm of VR applied to mental health are promising signs. Widely accepted VR treatment methods could mean accessible and inexpensive treatments for many people. However, there is a lack of high quality studies in this area, and many gaps in research. More work must be done to show the efficacy of these methods [ 30 , 32 , 34 ]. Widespread self-treatment of psychological disorders is probably years away. Even so, the potential for VR to emerge as a serious option is significant enough to warrant further investigations. In light of these results from health researchers, VR for astronaut mental health becomes a field of research with great potential.
+
+While much of the research on VR for health has concentrated on its use as a treatment for ailments such as pain or psychological disorders like PTSD, less attention has been paid to how it could be used for maintenance of healthy mental states and prevention of disorder. Prevention will be especially important in long-duration space missions, as a serious behavioural incident could have a large negative impact due to small crew sizes and the general hazards of a space environment. To stop a problem before it can occur or move beyond initial stages is the ideal scenario.
+2.2. VR in space
+
+VR has seen some use in space applications. NASA has extensive VR capabilities that have been honed for years. These capabilities are mainly used for training astronauts. Immersive environments can be much more effective for relaying certain types of training information, which aligns with the principle of “show, don't tell”. Before going to space, astronauts can strap into a harness attached to a crane system that simulates microgravity while wearing a VR HMD in order to learn how to perform a spacewalk or use a specialized tool in space [ 35 ]. Augmented reality (AR) technology has also been used on the ISS as a possible replacement for a hardcopy instruction manual [ 36 , 37 ]. So VR is not completely foreign to space, but immersive technology has not yet been used to improve mental health outcomes among astronauts on-orbit.
+2.3. VR for mental health in space
+
+Many research efforts have focused on the effects of VR, but few have specifically investigated its use in the maintenance of psychosocial health on long-duration space missions. NASA has extensive VR capabilities, but most of these have been used for training. There has been interest in using VR for mental health in space, though this has yet to emerge as a large field of study.
+
+At least two research efforts are investigating the potential of VR as a restorative/preventative mental health measure with a specific focus on space applications. Anderson et al. have found that exposure to simulated natural scenes can reduce stress levels. The researchers also point out that VR has advantages for use in ICE environments due to its ability to relax users in a private and confidential setting, and as a means of escape from daily sources of stress [ 38 ]. Another effort is called “A Network of Social Interactions for Bilateral Life Enhancement” (ANSIBLE), which is a simulated virtual world that includes interpersonal communication designed to help preserve ties with family members back on earth. Other features of ANSIBLE are virtual games, artwork, simple AIs, environments, and other activities that can be interacted with in a virtual environment [ 39 ]. One notable detail is that ANSIBLE is being developed specifically for astronauts on long-duration missions. The progress toward VR for space mental health applications that has been made in these studies is ongoing.
+3. Recommendations for future research and implementation
+
+As VR technology improves, it will be easier to create more realistic virtual spaces, and the ability to design a convincing virtual environment opens the door to novel methods of implementation. Further analysis is required to better understand both the challenges and benefits of various techniques. Below is a list of a few topics of interest that may warrant further investigation or validation. It is important to note that research efforts focused on behavioural health in space also have the potential for application in analogous terrestrial settings [ 40 ].
+3.1. Virtual nature
+
+The restorative and peaceful qualities of natural settings have been known for generations and across cultures. Today, this sentiment is supported by Attention Restoration Theory (ART), which postulates that exposure to natural setting can help reduce stress response and increase focus by providing a stimulating yet peaceful space on which concentration can focus passively, allowing active concentration to “refresh” [ 38 , 41 , 42 ]. These cognitive benefits have been demonstrated through studies exposing participants to real natural environments, simulated environments (VR) and even still pictures of nature [ 38 , [41] , [42] , [43] , [44] ].
+
+How beneficial can exposure to VR nature be? Early results are promising, showing that a short amount of time spent exposed to a natural VR environment can reduce levels of stress, with additional subjective ratings being largely positive [ 38 ]. A possible application of VR and ART would be to use simulated natural environments to reduce stress and improve concentration and cognitive function on long space missions. For astronauts who will not have the option to step outside their capsule for a relaxing walk in the park, virtual nature could be the next best thing.
+3.2. Exercise and virtual environments
+
+Crewmembers on the ISS are required to exercise for at least two hours every day to combat the physically degrading effects of space. If this trend continues in future long-duration missions, the total time spent exercising per year would be about a month. Instead of spending this time staring at the interior of a spaceship, astronauts could choose to use VR to run or ride a bike in the environment of their choice. These environments could range from calming and natural to highly exciting and stimulating, or any other type of setting/stimulus level. While natural scenes with water and animals have been effective, some participants in simulated ICE studies have responded positively to the idea of urban scenes. These may create a sense of normalcy among viewers in space, even though urban environments have not been restorative for average populations on earth [ 38 , 41 ].
+
+One challenge in implementing VR for exercise, especially running, is the potential for discomfort while wearing a HMD. Today, most headsets available for commercial use are bulky. Future developments may need to reduce HMD size for this method to be effective and acceptable to users. An additional challenge is the problem of monotony in a simulated environment. Too much repetition could defeat the purpose of immersion in a stimulating environment. Implementing an algorithm that automatically generates new areas of environment as the user travels along could address this problem. Developers could look to the example of the immensely popular video game, Minecraft, in attempting to construct such an algorithm. Minecraft procedurally generates a large, three-dimensional, non-repeating world using an algorithm that can be implemented on most low-power personal computers. An analogous method could be implemented in on a VR platform.
+
+Studies have noted the importance of perceived control over personal environment and actions [ 6 ]. Additionally, it is likely that preference in VR simulations will not be uniform across astronauts. For these reasons, having a large range of choices available for users may result in the maximum positive outcome for a group.
+3.3. Virtual windows, augmented reality for team cohesion
+
+So far, immersive VR has been the only method discussed. Another technology that may find use on long-duration missions is Augmented Reality (AR), in which a headset or glasses enable the user to see his/her real surroundings while supplementing them with simulated overlays [ 45 ]. While losing some of the advantages of immersion, the ability to experience augmented reality without completely blocking the visual field could be useful in a different range of activities, and has already been investigated as an effective means of relaying procedural information in space, as opposed to reading a manual [ 36 , 37 ].
+
+A future use for this technology may be the addition of a virtual view out an existing real window, or a simulated virtual window. Kearney points out that virtual windows are desirable by crew and can reduce stress, in the same vein as the ideas of ART mentioned above [ 26 ]. An AR setup could be used to project a view of Earth or an Earth environment onto an existing window, supplanting the consistent blackness of space. This could provide a much greater feeling of presence and depth when compared to 2D display virtual windows that have been proposed.
+
+Such a view could be constructed in an immersive VR setting, but AR would allow crewmembers to share the view of their real surroundings, as well as a view through a virtual window. Sharing in positive experiences could benefit team cohesion. The importance of windows has been noted among astronaut populations and others [ 2 , 17 , 46 ]. Among ISS astronauts, one of the most frequently cited rewarding experiences is the view of Earth from space [ 17 , 46 ], which takes up a large portion of the visual field when viewed from windows on the ISS. This transcendent view could be recreated using VR or AR, which could be one solution to the problems that may be caused by the “earth out of view” phenomenon.
+
+The view of earth has been met with universal acclaim among astronauts, but a virtual window would be capable of simulating any view. This could be used to create scenery that might not be advisable for fully immersive VR simulations. Dangerous wildlife, underwater locations and the like could be viewed through a virtual window that acts as a protective barrier separating the outside environment from the safety of the inner environment.
+3.4. Simulated social interaction
+
+As artificial intelligence (AI) develops alongside VR, there is a chance that the two may be combined to allow for simulated social interactions within a virtual world populated by virtual agents. This could allow crew to feel as though their “social sphere” is larger than the few crewmembers they are able to interact with directly, and could counteract the negative aspects of social isolation [ 47 ]. Further research on producing convincing AI and human-AI interaction is necessary. Another possibility to consider is the ability to interact with other VR users in real time. Simulations do not have to be “single player” but can include other crew who can participate in a collective experience. In this light, VR can be used as a multi-user method for increasing team cohesion.
+3.5. Entertainment: games, media
+
+A platform such as VR naturally lends itself to entertainment media applications. Most mass-market VR applications are games or programs for entertainment value. This may translate well to the problem of filling large amounts of free time on long-duration space mission. Video games have proven themselves to be highly entertaining and captivating activities. The maximal level of immersion offered by VR as an entertainment platform means that VR games have the potential to surpass traditional (2D) games in overall entertainment quality.
+
+Games can even become problematically engrossing, a fact that most parents could probably attest to. Even so, the positive effects of games have not gone unnoticed. Using games to promote mental health has become a research topic of interest [ [48] , [49] , [50] ]. Casey indicates that the positive effects of games can include the promotion of autonomy and competence through emotional engagement while reducing negative behavioural issues like anxiety, insomnia, social dysfunction, and stress [ 48 ]. This research indicates that games can promote health. In space, VR video games could go a long way toward maintaining the health of astronauts. Nevertheless, it will be important to ensure that users are not completely enthralled by games or coping tools in general. Because of the potential for overuse, there will likely be a system in place to limit the time spent on personal VR systems. This would help ensure that personnel are not isolated by the devices meant to improve coping.
+
+Other forms of entertainment could also be explored. VR can be used as a platform to take in more conventional forms of media like books, movies, videos from home, and the like. As previously stated, variation and choice in experiences can be an important factor in mitigating boredom in space, so a large variety may be the best approach.
+3.6. Simulate larger volume, mutable habitat
+
+The habitable volume for astronauts on a long duration mission will likely be less than what they are used to on earth, with the added hindrance of extended confinement. Crowding in a capsule environment could be a serious problem that impacts team cohesion and stress [ 51 ]. A possible solution to the problem of crowding is the construction of a virtual private room that would effectively increase the perceived habitable volume. Because of the value of a sense of control over one's environment, the features of this space should be under the control of the user. A virtual private area may be used as a “hub” of sorts, or a station in which the user avatar begins the virtual experience, which could lead to different activities such as viewing nature, playing games, or watching videos from earth. A similar approach has been taken through the design of ANSIBLE, as mentioned previously [ 39 ].
+3.7. Constraints and hardware considerations
+3.7.1. Effects of microgravity
+
+How will astronauts navigate their virtual environments? Nausea, vertigo and balance problems may result if visual cues do not match the signals of the inner ear [ 52 ], so outside the influence of gravity, ambulation within a virtual environment may be rendered obsolete. Will VR users in space simply be able to float around in simulated environments? If so, how would this impact the presence (realism) of the simulation and its effectiveness?
+3.7.2. The social impact of VR
+
+Difficult to predict is the impact the use of VR technology would have on team dynamics. It could be that attitudes toward VR among crewmembers are positive due to the effectiveness of the simulations in providing a convincing environment for relaxation or entertainment. On the other hand, it is possible that VR may not be well received and instead viewed as a novelty without many benefits. At least some of the attitude towards VR may be enforced by norms within a group that evolve over time [ 11 ]. Further work is required to determine how the use of VR will affect and be affected by group dynamics.
+3.7.3. Hardware and implementation
+
+What are the spatial costs associated with VR on long-duration missions, in which crew are already limited to a small environment? What compromises will have to be made for flight readiness criteria? What will be the energy costs associated with detailed simulations? How will answers to all of these questions change in the years between now and when a long-duration mission is ready to launch? Kearney brings up these and other important practical concerns in considering immersive virtual environments as a countermeasure in space [ 26 ].
+4. Conclusions
+
+Astronauts on long-duration missions will be at risk for behavioural health issues due to their extended residence in isolated, confined environments. Problems that could arise, like boredom, depression, social isolation, etc. will need to be prevented. Immersive virtual reality simulations have the potential to aid in the prevention behavioural health problems. Although VR has been effective for populations affected by PTSD, phobias, eating disorders, schizophrenia, and other conditions, few research efforts to date have investigated the technology's use as a preventative measure on long space missions. The efforts that have been undertaken are in their early stages. Possible modes of implementation include the combination of VR and exercise, VR for views of earth and home, games, entertainment, and others. Though much work is needed to determine the optimal modes of implementation and associated risks, the power and flexibility of VR as a tool have been demonstrated and should not be ignored.
+Acknowledgements
+
+Our thanks are due to Dr. Jay Buckey for the critical insights and advice he provided, and to Adam Sauer for demonstrating to us the power and flexibility of VR.
+Appendix A. Supplementary data
+
+The following is the supplementary data related to this article:
+Download XML file (268B) Help with xml files
+
+Data Profile .
+
+Recommended articles Citing articles (0)
+Research data for this article
+Data not available / No data was used for the research described in the article
+About research data
+© 2018 IAA. Published by Elsevier Ltd. All rights reserved.
+Recommended articles
+
+    Performance of high mach number scramjets - Tunnel vs flight
+    Acta Astronautica, Volume 146, 2018, pp. 103-110
+    Download PDF View details
+    Latent viral reactivation is associated with changes in plasma antimicrobial protein concentrations during long-duration spaceflight
+    Acta Astronautica, Volume 146, 2018, pp. 111-116
+    Download PDF View details
+    Numerical investigation of drag and heat flux reduction mechanism of the pulsed counterflowing jet on a blunt body in supersonic flows
+    Acta Astronautica, Volume 146, 2018, pp. 123-133
+    Download PDF View details
+
+1 2 Next
+Citing articles (0)
+Article Metrics
+View article metrics
+Elsevier
+
+About ScienceDirect Remote access Shopping cart Contact and support Terms and conditions Privacy policy
+
+We use cookies to help provide and enhance our service and tailor content and ads. By continuing you agree to the use of cookies .
+
+Copyright © 2018 Elsevier B.V. or its licensors or contributors. ScienceDirect ® is a registered trademark of Elsevier B.V.
+RELX Group
