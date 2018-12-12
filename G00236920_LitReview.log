@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.12)  12 DEC 2018 16:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.11)  12 DEC 2018 19:43
 entering extended mode
 **./G00236920_LitReview.tex
 (G00236920_LitReview.tex
@@ -16,7 +16,8 @@ Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
 \@IEEEtrantmptoksA=\toks14
 LaTeX Font Info:    Try loading font information for OT1+ppl on input line 503.
 
-("C:\Users\nltes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1ppl.fd"
+("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1ppl.fd
+"
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
 -- Using IEEE Computer Society mode.
@@ -135,7 +136,8 @@ LaTeX Font Info:    ... okay on input line 14.
 
 -- Lines per column: 61 (exact).
 LaTeX Font Info:    Try loading font information for OT1+phv on input line 38.
-("C:\Users\nltes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
+("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd
+"
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <8.03> not available
@@ -149,7 +151,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5.52061> on input line 38.
 LaTeX Font Info:    Try loading font information for U+pzd on input line 38.
-("C:\Users\nltes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\upzd.fd"
+ ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\upzd.fd"
 File: upzd.fd 2001/06/04 font definitions for U/pzd.
 )
 LaTeX Font Info:    Calculating math sizes for size <8.03> on input line 38.
@@ -165,141 +167,194 @@ LaTeX Font Info:    Font shape `OT1/phv/bx/sc' in size <11.04124> not available
 
 (Font)              Font shape `OT1/phv/b/sc' tried instead on input line 40.
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--44
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--44
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
+[]\OT1/ppl/m/n/9.53561 Head mounted dis-play units and room scale
+ []
+
+
+Underfull \hbox (badness 2384) in paragraph at lines 43--45
+\OT1/ppl/m/n/9.53561 en-vi-ron-ments al-low many users to ex-pe-ri-ence many
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--49
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
 
  []
 
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <9.53561> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 50.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 52.
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--54
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
 
  []
 
 
-Underfull \hbox (badness 1931) in paragraph at lines 51--54
-\OT1/ppl/m/n/9.53561 Stage 3: Pro-ce-du-ral learn-ing, is where we have the
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+
  []
 
-[1{C:/Users/nltes/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+[1{C:/Users/Michael/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
 ]
-Underfull \hbox (badness 2050) in paragraph at lines 56--58
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+
+Underfull \hbox (badness 2050) in paragraph at lines 66--67
 \OT1/ppl/m/n/9.53561 On 16 Novem-ber 1973 Sky-lab 4 was launched and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--58
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
 
  []
 
 
-Underfull \hbox (badness 1354) in paragraph at lines 79--81
+Underfull \hbox (badness 1867) in paragraph at lines 68--69
+[]\OT1/ppl/m/n/9.53561 This ar-ti-cle was pub-lished May 1, 2018, in Acta
+ []
+
+
+Underfull \hbox (badness 2126) in paragraph at lines 68--69
+\OT1/ppl/m/n/9.53561 As-tro-nau-tica. The doc-u-ment at this mo-ment has no
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+[2]
+Underfull \hbox (badness 1354) in paragraph at lines 90--92
 []\OT1/ppl/m/n/8.03 yer, E., Swart-z-lan-der, B.J., Gugli-ucci, M.R., 2018. Us-
 ing vir-
  []
 
 
-Underfull \hbox (badness 1874) in paragraph at lines 79--81
+Underfull \hbox (badness 1874) in paragraph at lines 90--92
 \OT1/ppl/m/n/8.03 tual re-al-ity in med-i-cal ed-u-ca-tion to teach em-pa-thy. 
 JOUR-
  []
 
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 85--87
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--98
 []\OT1/ppl/m/n/8.03 in, C.J., Widyan-ingrum, R., 2018. The ef-fect of par-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--87
+Underfull \hbox (badness 10000) in paragraph at lines 96--98
 \OT1/ppl/m/n/8.03 al-lax on eye fix-a-tion pa-ram-e-ter in projection-based
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--87
+Underfull \hbox (badness 10000) in paragraph at lines 96--98
 \OT1/ppl/m/n/8.03 stereo-scopic dis-plays. Ap-plied Er-gonomics 69, 10{16.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--91
+Underfull \hbox (badness 10000) in paragraph at lines 100--102
 \OT1/ppl/m/n/8.03 M., 2013. Be-hav-ioral In-ter-ven-tion Tech-nolo-gies: Ev-i-d
 ence
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--91
+Underfull \hbox (badness 10000) in paragraph at lines 100--102
 \OT1/ppl/m/n/8.03 re-view and rec-om-men-da-tions for fu-ture re-search in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--91
+Underfull \hbox (badness 10000) in paragraph at lines 100--102
 \OT1/ppl/m/n/8.03 men-tal health. Gen-eral Hos-pi-tal Psy-chi-a-try 35, 332{338
 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--93
+Underfull \hbox (badness 10000) in paragraph at lines 102--104
 []\OT1/ppl/m/n/8.03 alivaiko, E., Davis, S.L., Black-more, K.L., Vakulin, A.,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--93
+Underfull \hbox (badness 10000) in paragraph at lines 102--104
 \OT1/ppl/m/n/8.03 Nes-bitt, K.V., 2015. Cy-ber-sick-ness pro-voked by head-
  []
 
 
-Underfull \hbox (badness 1472) in paragraph at lines 91--93
+Underfull \hbox (badness 1472) in paragraph at lines 102--104
 \OT1/ppl/m/n/8.03 mounted dis-play af-fects cu-ta-neous vas-cu-lar tone, heart 
 rate
  []
 
 
-Underfull \hbox (badness 3138) in paragraph at lines 91--93
+Underfull \hbox (badness 3138) in paragraph at lines 102--104
 \OT1/ppl/m/n/8.03 and re-ac-tion time. Phys-i-ol-ogy and Be-hav-ior 151, 583{59
 0.
  []
 
 
-Underfull \hbox (badness 4673) in paragraph at lines 93--95
+Underfull \hbox (badness 4673) in paragraph at lines 104--106
 \OT1/ppl/m/n/8.03 Ap-pli-ca-tion of vir-tual re-al-ity for crew men-tal health 
 in
  []
 
-[3
-
-] (G00236920_LitReview.aux)
+[3] (G00236920_LitReview.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
  1179 strings out of 492970
- 21694 string characters out of 3126593
- 89475 words of memory out of 3000000
+ 21718 string characters out of 3125705
+ 88475 words of memory out of 3000000
  5101 multiletter control sequences out of 15000+200000
  43006 words of font info for 91 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
- 29i,8n,28p,1420b,289s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/nltes/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
-}<C:/Users/nltes/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmsy8.pfb><C:/Users/nltes/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/
-helvetic/uhvb8a.pfb><C:/Users/nltes/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
-e1/urw/helvetic/uhvr8a.pfb><C:/Users/nltes/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/urw/palatino/uplr8a.pfb><C:/Users/nltes/AppData/Local/Programs/MiKTeX
- 2.9/fonts/type1/urw/palatino/uplri8a.pfb><C:/Users/nltes/AppData/Local/Program
-s/MiKTeX 2.9/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on G00236920_LitReview.pdf (3 pages, 86203 bytes).
+ 29i,8n,28p,1815b,289s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Michael/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.e
+nc}<C:/Users/Michael/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmsy8.pfb><C:/Users/Michael/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/urw/helvetic/uhvb8a.pfb><C:/Users/Michael/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/Michael/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/Michael/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb><C:/Users/Michael/AppData
+/Local/Programs/MiKTeX 2.9/fonts/type1/urw/zapfding/uzdr.pfb>
+Output written on G00236920_LitReview.pdf (3 pages, 87715 bytes).
 PDF statistics:
  37 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
